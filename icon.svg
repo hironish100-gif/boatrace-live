@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="boatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#38bdf8" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Background with rounded corners for app icon -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  
+  <!-- Outer glowing ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#38bdf8" stroke-width="4" stroke-opacity="0.3" stroke-dasharray="12 12"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#6366f1" stroke-width="2" stroke-opacity="0.4"/>
+  
+  <!-- Speed lines (water splash) -->
+  <path d="M 90 350 Q 200 370 420 330" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 120 380 Q 240 395 390 370" fill="none" stroke="#06b6d4" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- High-tech Speed Boat Symbol -->
+  <g filter="url(#shadow)">
+    <!-- Boat Hull -->
+    <path d="M 110 320 L 260 160 L 410 300 Q 260 345 110 320 Z" fill="url(#boatGrad)" stroke="#7dd3fc" stroke-width="4"/>
+    <!-- Cockpit / Cabin -->
+    <path d="M 210 270 L 260 190 L 310 270 Q 260 285 210 270 Z" fill="#0284c7" stroke="#bae6fd" stroke-width="3"/>
+    <!-- AI Brain Circuit Lines -->
+    <circle cx="260" cy="235" r="12" fill="url(#glow)"/>
+    <line x1="260" y1="223" x2="260" y2="195" stroke="#fde68a" stroke-width="3"/>
+    <line x1="248" y1="235" x2="225" y2="245" stroke="#fde68a" stroke-width="2"/>
+    <line x1="272" y1="235" x2="295" y2="245" stroke="#fde68a" stroke-width="2"/>
+  </g>
+  
+  <!-- AI Text Banner -->
+  <rect x="156" y="380" width="200" height="48" rx="24" fill="#0f172a" stroke="url(#glow)" stroke-width="3"/>
+  <text x="256" y="413" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="900" fill="#f8fafc" text-anchor="middle" letter-spacing="3">BOAT AI</text>
+</svg>
