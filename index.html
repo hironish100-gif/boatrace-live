@@ -12,7 +12,19 @@
   <meta name="apple-mobile-web-app-title" content="競艇女子AI">
   <link rel="apple-touch-icon" href="icon.svg">
   <link rel="icon" type="image/svg+xml" href="icon.svg">
-  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js">
+  // PWA Service Worker 登録
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js').then((reg) => {
+        console.log('Boatrace AI PWA registered successfully:', reg.scope);
+      }).catch((err) => {
+        console.log('PWA registration failed:', err);
+      });
+    });
+  }
+
+</script>
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -1286,6 +1298,18 @@
       triggerSilentSync(false);
     }
   }, 1000);
+
+
+  // PWA Service Worker 登録
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js').then((reg) => {
+        console.log('Boatrace AI PWA registered successfully:', reg.scope);
+      }).catch((err) => {
+        console.log('PWA registration failed:', err);
+      });
+    });
+  }
 
 </script>
 </body>
