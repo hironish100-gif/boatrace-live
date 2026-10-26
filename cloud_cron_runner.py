@@ -89,12 +89,9 @@ def main():
         log(f"all_days_data error: {e}")
 
     # 6. GitHub Pages への同期
-    log("Syncing to GitHub Pages...")
-    try:
-        import quick_sync
-        quick_sync.main()
-    except Exception as e:
-        log(f"quick_sync error: {e}")
+    # GitHub Actions のステップ (git add -A && git commit && git push) が自動反映するため
+    # スクリプト内での API による重複アップロードは行わない
+    log("Files updated. Ready for Git Commit & Push step.")
 
     log("=== CLOUD CRON RUNNER COMPLETED ===")
 
