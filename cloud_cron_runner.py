@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 cloud_cron_runner.py
-GitHub Actions クラウドランナー上で完全自律動作するスクリプト。
-PCの電源やAntigravityに一切依存せず、24時間クラウド上で自動更新を完結させる。
+GitHub Actions クラウドランナーで24時間完全自律稼働するスクリプト。
+PCの電源・ローカル環境に一切依存せず、出走表・AI予想・レース確定結果・オッズを自動同期。
 """
 
 import os
@@ -12,13 +12,14 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
+if sys.stdout is not None:
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Referer": "https://www.boatrace.jp/"
-}
 
 def log(msg):
     ts = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
@@ -33,7 +34,8 @@ def main():
     tomorrow_str = tomorrow.strftime("%Y%m%d")
     cur_hm = now.hour * 100 + now.minute
 
-    from generate_edogawa_dynamic import get_venue_config, generate_race_data_for_date
+    from generate_edogawa_dynamic import get_venue_config
+    from fast_generate_today import generate_for_date_fast
 
     today_vcfg = get_venue_config(today_str)
     tomorrow_vcfg = get_venue_config(tomorrow_str)
@@ -41,27 +43,27 @@ def main():
     today_file = os.path.join(DATA_DIR, f"{today_vcfg['prefix']}_{today_str}_data.json")
     tomorrow_file = os.path.join(DATA_DIR, f"{tomorrow_vcfg['prefix']}_{tomorrow_str}_data.json")
 
-    # 1. 夜間フェーズ (20:30〜23:59): 翌日の出走表・AI予想を自動生成
-    if 2030 <= cur_hm <= 2359 or cur_hm < 200:
-        if not os.path.exists(tomorrow_file):
-            log(f"[NIGHT] Checking racelist for tomorrow ({tomorrow_str} {tomorrow_vcfg['stadium']})...")
-            try:
-                success = generate_race_data_for_date(tomorrow_str, tomorrow_vcfg["jcd"])
-                if success:
-                    log(f"[NIGHT SUCCESS] Tomorrow ({tomorrow_str}) races generated!")
-            except Exception as e:
-                log(f"[NIGHT ERROR] {e}")
+    # 1. 最優先チェック: 本日(today_str)のデータが存在しない場合は時間帯を問わず即座に生成
+    if not os.path.exists(today_file) or os.path.getsize(today_file) < 500:
+        log(f"[TODAY MISSING] Generating today's races ({today_str} {today_vcfg['stadium']})...")
+        try:
+            success = generate_for_date_fast(today_str, today_vcfg["jcd"])
+            if success:
+                log(f"[TODAY SUCCESS] Today ({today_str}) races generated successfully!")
+        except Exception as e:
+            log(f"[TODAY ERROR] {e}")
 
-    # 2. 朝フェーズ (06:00〜14:00): 今日のデータが存在しない場合は自動生成
-    elif 600 <= cur_hm <= 1400:
-        if not os.path.exists(today_file):
-            log(f"[MORNING] Generating today races ({today_str} {today_vcfg['stadium']})...")
-            try:
-                generate_race_data_for_date(today_str, today_vcfg["jcd"])
-            except Exception as e:
-                log(f"[MORNING ERROR] {e}")
+    # 2. 翌日チェック: 16時以降、または夜間(20:00〜)に翌日のデータが存在しない場合は生成
+    if (cur_hm >= 1600 or cur_hm < 200) and (not os.path.exists(tomorrow_file) or os.path.getsize(tomorrow_file) < 500):
+        log(f"[NIGHT] Checking racelist for tomorrow ({tomorrow_str} {tomorrow_vcfg['stadium']})...")
+        try:
+            success = generate_for_date_fast(tomorrow_str, tomorrow_vcfg["jcd"])
+            if success:
+                log(f"[NIGHT SUCCESS] Tomorrow ({tomorrow_str}) races generated!")
+        except Exception as e:
+            log(f"[NIGHT ERROR] {e}")
 
-    # 3. レース開催中フェーズ (14:00〜21:30): 確定結果・オッズの取得
+    # 3. レース開催フェーズ (14:00〜22:00): 確定結果・オッズの取得
     if 1400 <= cur_hm <= 2200:
         log(f"[LIVE] Fetching results & odds for {today_str} (jcd={today_vcfg['jcd']})...")
         try:
@@ -88,11 +90,8 @@ def main():
     except Exception as e:
         log(f"all_days_data error: {e}")
 
-    # 6. GitHub Pages への同期
-    # GitHub Actions のステップ (git add -A && git commit && git push) が自動反映するため
-    # スクリプト内での API による重複アップロードは行わない
+    # 6. GitHub Actions の後続ステップ (git add -A && git commit && git push) が自動反映
     log("Files updated. Ready for Git Commit & Push step.")
-
     log("=== CLOUD CRON RUNNER COMPLETED ===")
 
 if __name__ == "__main__":
