@@ -1,0 +1,49 @@
+name: Boatrace AI Cloud Autonomous 24/7 Monitor
+
+on:
+  schedule:
+    # 毎日 日本時間 21:00 (UTC 12:00) : 翌日出走表・AI予想の自動生成
+    - cron: '0 12 * * *'
+    # 毎日 日本時間 08:00 (UTC 23:00) : 朝の事前確認・更新
+    - cron: '0 23 * * *'
+    # 毎日 日本時間 15:00〜21:30 (UTC 06:00〜12:30) : 30分ごとのレースリアルタイム同期
+    - cron: '*/30 6-12 * * *'
+  workflow_dispatch:
+
+jobs:
+  cloud-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Cloud Monitor Script
+        env:
+          TZ: 'Asia/Tokyo'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python cloud_cron_runner.py
+
+      - name: Git Commit and Push to Both Repos
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto cloud sync: $(date +'%Y-%m-%d %H:%M:%S') [skip ci]" || echo "No changes to commit"
+          git push origin main || echo "Push completed"
