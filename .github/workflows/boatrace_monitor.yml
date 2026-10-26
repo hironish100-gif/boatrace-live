@@ -26,11 +26,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install Dependencies
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
       - name: Run Cloud Monitor Script
@@ -40,7 +39,7 @@ jobs:
         run: |
           python cloud_cron_runner.py
 
-      - name: Git Commit and Push to Both Repos
+      - name: Git Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
