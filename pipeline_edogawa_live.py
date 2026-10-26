@@ -581,7 +581,7 @@ def run_pipeline(target_date: str = None):
 
         # クラウド同期（バックグラウンド非同期実行でレスポンス遅延をゼロ化）
         sync_script = os.path.join(BASE_DIR, "quick_sync.py")
-        if os.path.exists(sync_script) and not os.environ.get("RENDER"):
+        if os.path.exists(sync_script) and not os.environ.get("RENDER") and not os.environ.get("GITHUB_ACTIONS"):
             try:
                 import quick_sync
                 import threading
@@ -592,9 +592,10 @@ def run_pipeline(target_date: str = None):
 
         # メール自動送信（非同期）
         try:
-            import send_live_wakamatsu_email
-            import threading
-            threading.Thread(target=send_live_wakamatsu_email.send_wakamatsu_report, daemon=True).start()
+            if not os.environ.get("GITHUB_ACTIONS"):
+                import send_live_wakamatsu_email
+                import threading
+                threading.Thread(target=send_live_wakamatsu_email.send_wakamatsu_report, daemon=True).start()
             print("Summary email launched in background.")
         except Exception as e:
             print(f"Error launching email: {e}")
