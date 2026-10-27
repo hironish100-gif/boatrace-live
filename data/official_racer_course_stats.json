@@ -1,0 +1,3176 @@
+{
+  "5193": {
+    "1": {
+      "entry_rate": 21.3,
+      "win_rate": 69.0,
+      "place2_rate": 13.8,
+      "place3_rate": 10.3,
+      "rentai2": 82.8,
+      "rentai3": 93.1,
+      "avg_st": 0.15,
+      "st_rank": 2.7,
+      "tactical_type": "鉄壁イン速攻逃げ型"
+    },
+    "2": {
+      "entry_rate": 15.4,
+      "win_rate": 42.9,
+      "place2_rate": 23.8,
+      "place3_rate": 14.3,
+      "rentai2": 66.7,
+      "rentai3": 81.0,
+      "avg_st": 0.13,
+      "st_rank": 2.8,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 16.9,
+      "win_rate": 21.7,
+      "place2_rate": 34.8,
+      "place3_rate": 26.1,
+      "rentai2": 56.5,
+      "rentai3": 82.6,
+      "avg_st": 0.14,
+      "st_rank": 2.8,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 13.2,
+      "win_rate": 5.6,
+      "place2_rate": 22.2,
+      "place3_rate": 27.8,
+      "rentai2": 27.8,
+      "rentai3": 55.6,
+      "avg_st": 0.16,
+      "st_rank": 4.0,
+      "tactical_type": "4C二番差し・道中捌き連対巧者"
+    },
+    "5": {
+      "entry_rate": 17.6,
+      "win_rate": 8.3,
+      "place2_rate": 20.8,
+      "place3_rate": 25.0,
+      "rentai2": 29.1,
+      "rentai3": 54.2,
+      "avg_st": 0.16,
+      "st_rank": 3.2,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.4,
+      "win_rate": 4.8,
+      "place2_rate": 33.3,
+      "place3_rate": 0.0,
+      "rentai2": 38.1,
+      "rentai3": 38.1,
+      "avg_st": 0.19,
+      "st_rank": 4.0,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4690": {
+    "1": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4240": {
+    "1": {
+      "entry_rate": 17.6,
+      "win_rate": 52.6,
+      "place2_rate": 21.1,
+      "place3_rate": 0.0,
+      "rentai2": 73.7,
+      "rentai3": 73.7,
+      "avg_st": 0.14,
+      "st_rank": 2.4,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 18.5,
+      "win_rate": 20.0,
+      "place2_rate": 45.0,
+      "place3_rate": 20.0,
+      "rentai2": 65.0,
+      "rentai3": 85.0,
+      "avg_st": 0.13,
+      "st_rank": 2.2,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 18.5,
+      "win_rate": 5.0,
+      "place2_rate": 30.0,
+      "place3_rate": 25.0,
+      "rentai2": 35.0,
+      "rentai3": 60.0,
+      "avg_st": 0.13,
+      "st_rank": 2.4,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 15.7,
+      "win_rate": 17.6,
+      "place2_rate": 23.5,
+      "place3_rate": 23.5,
+      "rentai2": 41.1,
+      "rentai3": 64.7,
+      "avg_st": 0.14,
+      "st_rank": 1.9,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 13.9,
+      "win_rate": 13.3,
+      "place2_rate": 40.0,
+      "place3_rate": 0.0,
+      "rentai2": 53.3,
+      "rentai3": 53.3,
+      "avg_st": 0.16,
+      "st_rank": 2.9,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.7,
+      "win_rate": 5.9,
+      "place2_rate": 11.8,
+      "place3_rate": 5.9,
+      "rentai2": 17.7,
+      "rentai3": 23.5,
+      "avg_st": 0.18,
+      "st_rank": 3.5,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4611": {
+    "1": {
+      "entry_rate": 20.7,
+      "win_rate": 87.5,
+      "place2_rate": 8.3,
+      "place3_rate": 4.2,
+      "rentai2": 95.8,
+      "rentai3": 100.0,
+      "avg_st": 0.15,
+      "st_rank": 2.3,
+      "tactical_type": "鉄壁イン速攻逃げ型"
+    },
+    "2": {
+      "entry_rate": 16.4,
+      "win_rate": 21.1,
+      "place2_rate": 42.1,
+      "place3_rate": 15.8,
+      "rentai2": 63.2,
+      "rentai3": 78.9,
+      "avg_st": 0.14,
+      "st_rank": 2.4,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 18.1,
+      "win_rate": 23.8,
+      "place2_rate": 14.3,
+      "place3_rate": 14.3,
+      "rentai2": 38.1,
+      "rentai3": 52.4,
+      "avg_st": 0.13,
+      "st_rank": 2.1,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 17.2,
+      "win_rate": 25.0,
+      "place2_rate": 15.0,
+      "place3_rate": 0.0,
+      "rentai2": 40.0,
+      "rentai3": 40.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 14.7,
+      "win_rate": 5.9,
+      "place2_rate": 11.8,
+      "place3_rate": 41.2,
+      "rentai2": 17.7,
+      "rentai3": 58.8,
+      "avg_st": 0.14,
+      "st_rank": 2.9,
+      "tactical_type": "5C連動差し・3連対巧者"
+    },
+    "6": {
+      "entry_rate": 12.9,
+      "win_rate": 20.0,
+      "place2_rate": 6.7,
+      "place3_rate": 13.3,
+      "rentai2": 26.7,
+      "rentai3": 40.0,
+      "avg_st": 0.14,
+      "st_rank": 2.6,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4882": {
+    "1": {
+      "entry_rate": 11.1,
+      "win_rate": 28.6,
+      "place2_rate": 28.6,
+      "place3_rate": 0.0,
+      "rentai2": 57.2,
+      "rentai3": 57.1,
+      "avg_st": 0.21,
+      "st_rank": 4.0,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 17.5,
+      "win_rate": 18.2,
+      "place2_rate": 18.2,
+      "place3_rate": 0.0,
+      "rentai2": 36.4,
+      "rentai3": 36.4,
+      "avg_st": 0.23,
+      "st_rank": 3.9,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 14.3,
+      "win_rate": 11.1,
+      "place2_rate": 22.2,
+      "place3_rate": 0.0,
+      "rentai2": 33.3,
+      "rentai3": 33.3,
+      "avg_st": 0.19,
+      "st_rank": 4.1,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 11.1,
+      "win_rate": 14.3,
+      "place2_rate": 28.6,
+      "place3_rate": 0.0,
+      "rentai2": 42.9,
+      "rentai3": 42.9,
+      "avg_st": 0.19,
+      "st_rank": 3.1,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 17.5,
+      "win_rate": 9.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 9.1,
+      "rentai3": 9.1,
+      "avg_st": 0.19,
+      "st_rank": 4.1,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 28.6,
+      "win_rate": 5.6,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 5.6,
+      "rentai3": 5.6,
+      "avg_st": 0.34,
+      "st_rank": 5.6,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4484": {
+    "1": {
+      "entry_rate": 15.0,
+      "win_rate": 41.7,
+      "place2_rate": 25.0,
+      "place3_rate": 8.3,
+      "rentai2": 66.7,
+      "rentai3": 75.0,
+      "avg_st": 0.18,
+      "st_rank": 3.4,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 17.5,
+      "win_rate": 7.1,
+      "place2_rate": 21.4,
+      "place3_rate": 35.7,
+      "rentai2": 28.5,
+      "rentai3": 64.3,
+      "avg_st": 0.22,
+      "st_rank": 3.7,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 17.5,
+      "win_rate": 21.4,
+      "place2_rate": 21.4,
+      "place3_rate": 14.3,
+      "rentai2": 42.8,
+      "rentai3": 57.1,
+      "avg_st": 0.23,
+      "st_rank": 3.7,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 16.2,
+      "win_rate": 15.4,
+      "place2_rate": 23.1,
+      "place3_rate": 0.0,
+      "rentai2": 38.5,
+      "rentai3": 38.5,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 18.8,
+      "win_rate": 6.7,
+      "place2_rate": 46.7,
+      "place3_rate": 0.0,
+      "rentai2": 53.4,
+      "rentai3": 53.3,
+      "avg_st": 0.23,
+      "st_rank": 4.5,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.0,
+      "win_rate": 8.3,
+      "place2_rate": 8.3,
+      "place3_rate": 0.0,
+      "rentai2": 16.6,
+      "rentai3": 16.7,
+      "avg_st": 0.23,
+      "st_rank": 4.8,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5194": {
+    "1": {
+      "entry_rate": 14.5,
+      "win_rate": 37.5,
+      "place2_rate": 12.5,
+      "place3_rate": 18.8,
+      "rentai2": 50.0,
+      "rentai3": 68.8,
+      "avg_st": 0.17,
+      "st_rank": 3.9,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 17.3,
+      "win_rate": 15.8,
+      "place2_rate": 21.1,
+      "place3_rate": 15.8,
+      "rentai2": 36.9,
+      "rentai3": 52.6,
+      "avg_st": 0.19,
+      "st_rank": 2.9,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.2,
+      "win_rate": 30.0,
+      "place2_rate": 25.0,
+      "place3_rate": 0.0,
+      "rentai2": 55.0,
+      "rentai3": 55.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 16.4,
+      "win_rate": 11.1,
+      "place2_rate": 11.1,
+      "place3_rate": 11.1,
+      "rentai2": 22.2,
+      "rentai3": 33.3,
+      "avg_st": 0.17,
+      "st_rank": 2.6,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 17.3,
+      "win_rate": 15.8,
+      "place2_rate": 10.5,
+      "place3_rate": 0.0,
+      "rentai2": 26.3,
+      "rentai3": 26.3,
+      "avg_st": 0.17,
+      "st_rank": 3.6,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 16.4,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.19,
+      "st_rank": 3.8,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5272": {
+    "1": {
+      "entry_rate": 11.5,
+      "win_rate": 50.0,
+      "place2_rate": 10.0,
+      "place3_rate": 0.0,
+      "rentai2": 60.0,
+      "rentai3": 60.0,
+      "avg_st": 0.21,
+      "st_rank": 3.5,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 24.1,
+      "win_rate": 9.5,
+      "place2_rate": 33.3,
+      "place3_rate": 14.3,
+      "rentai2": 42.8,
+      "rentai3": 57.1,
+      "avg_st": 0.17,
+      "st_rank": 3.2,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 16.1,
+      "win_rate": 7.1,
+      "place2_rate": 14.3,
+      "place3_rate": 7.1,
+      "rentai2": 21.4,
+      "rentai3": 28.6,
+      "avg_st": 0.22,
+      "st_rank": 3.8,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 17.2,
+      "win_rate": 6.7,
+      "place2_rate": 20.0,
+      "place3_rate": 6.7,
+      "rentai2": 26.7,
+      "rentai3": 33.3,
+      "avg_st": 0.19,
+      "st_rank": 3.5,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 18.4,
+      "win_rate": 6.2,
+      "place2_rate": 12.5,
+      "place3_rate": 0.0,
+      "rentai2": 18.7,
+      "rentai3": 18.8,
+      "avg_st": 0.19,
+      "st_rank": 3.6,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 12.6,
+      "win_rate": 9.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 9.1,
+      "rentai3": 9.1,
+      "avg_st": 0.17,
+      "st_rank": 3.2,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5472": {
+    "1": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5314": {
+    "1": {
+      "entry_rate": 13.5,
+      "win_rate": 30.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 50.0,
+      "rentai3": 50.0,
+      "avg_st": 0.14,
+      "st_rank": 2.8,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 18.9,
+      "win_rate": 7.1,
+      "place2_rate": 28.6,
+      "place3_rate": 0.0,
+      "rentai2": 35.7,
+      "rentai3": 35.7,
+      "avg_st": 0.16,
+      "st_rank": 3.1,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 16.2,
+      "win_rate": 8.3,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 8.3,
+      "rentai3": 8.3,
+      "avg_st": 0.21,
+      "st_rank": 3.2,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 21.6,
+      "win_rate": 18.8,
+      "place2_rate": 18.8,
+      "place3_rate": 0.0,
+      "rentai2": 37.6,
+      "rentai3": 37.5,
+      "avg_st": 0.19,
+      "st_rank": 3.0,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 9.5,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.2,
+      "st_rank": 3.7,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 20.3,
+      "win_rate": 6.7,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 6.7,
+      "rentai3": 6.7,
+      "avg_st": 0.21,
+      "st_rank": 3.9,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4853": {
+    "1": {
+      "entry_rate": 13.3,
+      "win_rate": 30.0,
+      "place2_rate": 10.0,
+      "place3_rate": 20.0,
+      "rentai2": 40.0,
+      "rentai3": 60.0,
+      "avg_st": 0.13,
+      "st_rank": 3.2,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.0,
+      "win_rate": 8.3,
+      "place2_rate": 25.0,
+      "place3_rate": 0.0,
+      "rentai2": 33.3,
+      "rentai3": 33.3,
+      "avg_st": 0.21,
+      "st_rank": 3.8,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 20.0,
+      "win_rate": 20.0,
+      "place2_rate": 26.7,
+      "place3_rate": 13.3,
+      "rentai2": 46.7,
+      "rentai3": 60.0,
+      "avg_st": 0.2,
+      "st_rank": 4.4,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 13.3,
+      "win_rate": 10.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 30.0,
+      "rentai3": 30.0,
+      "avg_st": 0.23,
+      "st_rank": 4.3,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 18.7,
+      "win_rate": 7.1,
+      "place2_rate": 14.3,
+      "place3_rate": 0.0,
+      "rentai2": 21.4,
+      "rentai3": 21.4,
+      "avg_st": 0.26,
+      "st_rank": 5.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 18.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.25,
+      "st_rank": 4.8,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5346": {
+    "1": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 2.5,
+      "win_rate": 100.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 100.0,
+      "rentai3": 100.0,
+      "avg_st": 0.18,
+      "st_rank": 5.0,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 29.6,
+      "win_rate": 4.2,
+      "place2_rate": 20.8,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.2,
+      "st_rank": 4.3,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 34.6,
+      "win_rate": 3.6,
+      "place2_rate": 10.7,
+      "place3_rate": 0.0,
+      "rentai2": 14.3,
+      "rentai3": 14.3,
+      "avg_st": 0.23,
+      "st_rank": 3.9,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 33.3,
+      "win_rate": 3.7,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 3.7,
+      "rentai3": 3.7,
+      "avg_st": 0.22,
+      "st_rank": 4.2,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4714": {
+    "1": {
+      "entry_rate": 12.5,
+      "win_rate": 33.3,
+      "place2_rate": 8.3,
+      "place3_rate": 25.0,
+      "rentai2": 41.6,
+      "rentai3": 66.7,
+      "avg_st": 0.14,
+      "st_rank": 2.6,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 20.8,
+      "win_rate": 30.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 50.0,
+      "rentai3": 50.0,
+      "avg_st": 0.16,
+      "st_rank": 3.6,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 16.7,
+      "win_rate": 6.2,
+      "place2_rate": 25.0,
+      "place3_rate": 12.5,
+      "rentai2": 31.2,
+      "rentai3": 43.8,
+      "avg_st": 0.14,
+      "st_rank": 3.3,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 20.8,
+      "win_rate": 5.0,
+      "place2_rate": 20.0,
+      "place3_rate": 40.0,
+      "rentai2": 25.0,
+      "rentai3": 65.0,
+      "avg_st": 0.18,
+      "st_rank": 4.0,
+      "tactical_type": "4C二番差し・道中捌き連対巧者"
+    },
+    "5": {
+      "entry_rate": 16.7,
+      "win_rate": 6.2,
+      "place2_rate": 6.2,
+      "place3_rate": 25.0,
+      "rentai2": 12.4,
+      "rentai3": 37.5,
+      "avg_st": 0.19,
+      "st_rank": 3.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 12.5,
+      "win_rate": 25.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.2,
+      "st_rank": 4.8,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "5174": {
+    "1": {
+      "entry_rate": 18.4,
+      "win_rate": 42.9,
+      "place2_rate": 14.3,
+      "place3_rate": 14.3,
+      "rentai2": 57.2,
+      "rentai3": 71.4,
+      "avg_st": 0.14,
+      "st_rank": 3.1,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 13.2,
+      "win_rate": 20.0,
+      "place2_rate": 20.0,
+      "place3_rate": 20.0,
+      "rentai2": 40.0,
+      "rentai3": 60.0,
+      "avg_st": 0.23,
+      "st_rank": 3.6,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.4,
+      "win_rate": 14.3,
+      "place2_rate": 14.3,
+      "place3_rate": 28.6,
+      "rentai2": 28.6,
+      "rentai3": 57.1,
+      "avg_st": 0.2,
+      "st_rank": 4.0,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 18.4,
+      "win_rate": 28.6,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 28.6,
+      "rentai3": 28.6,
+      "avg_st": 0.2,
+      "st_rank": 4.7,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 15.8,
+      "win_rate": 16.7,
+      "place2_rate": 16.7,
+      "place3_rate": 0.0,
+      "rentai2": 33.4,
+      "rentai3": 33.3,
+      "avg_st": 0.2,
+      "st_rank": 4.0,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.8,
+      "win_rate": 16.7,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 16.7,
+      "rentai3": 16.7,
+      "avg_st": 0.16,
+      "st_rank": 3.8,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4819": {
+    "1": {
+      "entry_rate": 20.6,
+      "win_rate": 59.1,
+      "place2_rate": 22.7,
+      "place3_rate": 13.6,
+      "rentai2": 81.8,
+      "rentai3": 95.5,
+      "avg_st": 0.16,
+      "st_rank": 3.0,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 15.0,
+      "win_rate": 6.2,
+      "place2_rate": 37.5,
+      "place3_rate": 18.8,
+      "rentai2": 43.7,
+      "rentai3": 62.5,
+      "avg_st": 0.17,
+      "st_rank": 3.0,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 15.0,
+      "win_rate": 18.8,
+      "place2_rate": 25.0,
+      "place3_rate": 37.5,
+      "rentai2": 43.8,
+      "rentai3": 81.2,
+      "avg_st": 0.14,
+      "st_rank": 2.4,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 13.1,
+      "win_rate": 14.3,
+      "place2_rate": 7.1,
+      "place3_rate": 21.4,
+      "rentai2": 21.4,
+      "rentai3": 42.9,
+      "avg_st": 0.16,
+      "st_rank": 2.9,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 16.8,
+      "win_rate": 5.6,
+      "place2_rate": 5.6,
+      "place3_rate": 50.0,
+      "rentai2": 11.2,
+      "rentai3": 61.1,
+      "avg_st": 0.18,
+      "st_rank": 3.2,
+      "tactical_type": "5C連動差し・3連対巧者"
+    },
+    "6": {
+      "entry_rate": 19.6,
+      "win_rate": 4.8,
+      "place2_rate": 9.5,
+      "place3_rate": 0.0,
+      "rentai2": 14.3,
+      "rentai3": 14.3,
+      "avg_st": 0.21,
+      "st_rank": 4.1,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5153": {
+    "1": {
+      "entry_rate": 13.5,
+      "win_rate": 15.4,
+      "place2_rate": 7.7,
+      "place3_rate": 7.7,
+      "rentai2": 23.1,
+      "rentai3": 30.8,
+      "avg_st": 0.17,
+      "st_rank": 2.6,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 20.8,
+      "win_rate": 5.0,
+      "place2_rate": 20.0,
+      "place3_rate": 20.0,
+      "rentai2": 25.0,
+      "rentai3": 45.0,
+      "avg_st": 0.19,
+      "st_rank": 3.6,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 17.7,
+      "win_rate": 11.8,
+      "place2_rate": 17.6,
+      "place3_rate": 11.8,
+      "rentai2": 29.4,
+      "rentai3": 41.2,
+      "avg_st": 0.17,
+      "st_rank": 2.6,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 14.6,
+      "win_rate": 42.9,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 42.9,
+      "rentai3": 42.9,
+      "avg_st": 0.15,
+      "st_rank": 2.6,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 18.8,
+      "win_rate": 5.6,
+      "place2_rate": 11.1,
+      "place3_rate": 0.0,
+      "rentai2": 16.7,
+      "rentai3": 16.7,
+      "avg_st": 0.17,
+      "st_rank": 2.9,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 14.6,
+      "win_rate": 21.4,
+      "place2_rate": 7.1,
+      "place3_rate": 0.0,
+      "rentai2": 28.5,
+      "rentai3": 28.6,
+      "avg_st": 0.12,
+      "st_rank": 1.8,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "5140": {
+    "1": {
+      "entry_rate": 16.5,
+      "win_rate": 25.0,
+      "place2_rate": 25.0,
+      "place3_rate": 18.8,
+      "rentai2": 50.0,
+      "rentai3": 68.8,
+      "avg_st": 0.16,
+      "st_rank": 2.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.5,
+      "win_rate": 12.5,
+      "place2_rate": 25.0,
+      "place3_rate": 31.2,
+      "rentai2": 37.5,
+      "rentai3": 68.8,
+      "avg_st": 0.19,
+      "st_rank": 3.9,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 17.5,
+      "win_rate": 5.9,
+      "place2_rate": 35.3,
+      "place3_rate": 23.5,
+      "rentai2": 41.2,
+      "rentai3": 64.7,
+      "avg_st": 0.17,
+      "st_rank": 3.1,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 16.5,
+      "win_rate": 6.2,
+      "place2_rate": 18.8,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.2,
+      "st_rank": 3.8,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 14.4,
+      "win_rate": 7.1,
+      "place2_rate": 14.3,
+      "place3_rate": 7.1,
+      "rentai2": 21.4,
+      "rentai3": 28.6,
+      "avg_st": 0.19,
+      "st_rank": 3.1,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 18.6,
+      "win_rate": 11.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 11.1,
+      "rentai3": 11.1,
+      "avg_st": 0.2,
+      "st_rank": 4.4,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5189": {
+    "1": {
+      "entry_rate": 16.8,
+      "win_rate": 54.5,
+      "place2_rate": 9.1,
+      "place3_rate": 9.1,
+      "rentai2": 63.6,
+      "rentai3": 72.7,
+      "avg_st": 0.2,
+      "st_rank": 4.3,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 21.4,
+      "win_rate": 17.9,
+      "place2_rate": 25.0,
+      "place3_rate": 32.1,
+      "rentai2": 42.9,
+      "rentai3": 75.0,
+      "avg_st": 0.21,
+      "st_rank": 4.5,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 13.7,
+      "win_rate": 27.8,
+      "place2_rate": 16.7,
+      "place3_rate": 16.7,
+      "rentai2": 44.5,
+      "rentai3": 61.1,
+      "avg_st": 0.21,
+      "st_rank": 4.2,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 15.3,
+      "win_rate": 5.0,
+      "place2_rate": 15.0,
+      "place3_rate": 25.0,
+      "rentai2": 20.0,
+      "rentai3": 45.0,
+      "avg_st": 0.18,
+      "st_rank": 4.5,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 19.1,
+      "win_rate": 8.0,
+      "place2_rate": 8.0,
+      "place3_rate": 16.0,
+      "rentai2": 16.0,
+      "rentai3": 32.0,
+      "avg_st": 0.17,
+      "st_rank": 3.9,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 13.7,
+      "win_rate": 16.7,
+      "place2_rate": 22.2,
+      "place3_rate": 0.0,
+      "rentai2": 38.9,
+      "rentai3": 38.9,
+      "avg_st": 0.22,
+      "st_rank": 5.2,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4825": {
+    "1": {
+      "entry_rate": 20.6,
+      "win_rate": 55.0,
+      "place2_rate": 15.0,
+      "place3_rate": 10.0,
+      "rentai2": 70.0,
+      "rentai3": 80.0,
+      "avg_st": 0.17,
+      "st_rank": 2.3,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 18.6,
+      "win_rate": 16.7,
+      "place2_rate": 22.2,
+      "place3_rate": 27.8,
+      "rentai2": 38.9,
+      "rentai3": 66.7,
+      "avg_st": 0.13,
+      "st_rank": 2.6,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 17.5,
+      "win_rate": 23.5,
+      "place2_rate": 23.5,
+      "place3_rate": 17.6,
+      "rentai2": 47.0,
+      "rentai3": 64.7,
+      "avg_st": 0.13,
+      "st_rank": 3.1,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 16.5,
+      "win_rate": 25.0,
+      "place2_rate": 31.2,
+      "place3_rate": 12.5,
+      "rentai2": 56.2,
+      "rentai3": 68.8,
+      "avg_st": 0.14,
+      "st_rank": 2.4,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 15.5,
+      "win_rate": 13.3,
+      "place2_rate": 13.3,
+      "place3_rate": 26.7,
+      "rentai2": 26.6,
+      "rentai3": 53.3,
+      "avg_st": 0.14,
+      "st_rank": 2.5,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 11.3,
+      "win_rate": 27.3,
+      "place2_rate": 18.2,
+      "place3_rate": 0.0,
+      "rentai2": 45.5,
+      "rentai3": 45.5,
+      "avg_st": 0.14,
+      "st_rank": 3.0,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4974": {
+    "1": {
+      "entry_rate": 16.0,
+      "win_rate": 37.5,
+      "place2_rate": 18.8,
+      "place3_rate": 18.8,
+      "rentai2": 56.3,
+      "rentai3": 75.0,
+      "avg_st": 0.21,
+      "st_rank": 4.3,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 22.0,
+      "win_rate": 18.2,
+      "place2_rate": 27.3,
+      "place3_rate": 18.2,
+      "rentai2": 45.5,
+      "rentai3": 63.6,
+      "avg_st": 0.16,
+      "st_rank": 3.2,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 15.0,
+      "win_rate": 13.3,
+      "place2_rate": 20.0,
+      "place3_rate": 26.7,
+      "rentai2": 33.3,
+      "rentai3": 60.0,
+      "avg_st": 0.2,
+      "st_rank": 4.1,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 19.0,
+      "win_rate": 26.3,
+      "place2_rate": 10.5,
+      "place3_rate": 21.1,
+      "rentai2": 36.8,
+      "rentai3": 57.9,
+      "avg_st": 0.19,
+      "st_rank": 3.2,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 15.0,
+      "win_rate": 20.0,
+      "place2_rate": 13.3,
+      "place3_rate": 26.7,
+      "rentai2": 33.3,
+      "rentai3": 60.0,
+      "avg_st": 0.16,
+      "st_rank": 3.3,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 13.0,
+      "win_rate": 23.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 23.1,
+      "rentai3": 23.1,
+      "avg_st": 0.2,
+      "st_rank": 4.0,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4891": {
+    "1": {
+      "entry_rate": 15.0,
+      "win_rate": 46.7,
+      "place2_rate": 6.7,
+      "place3_rate": 6.7,
+      "rentai2": 53.4,
+      "rentai3": 60.0,
+      "avg_st": 0.16,
+      "st_rank": 2.1,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 17.0,
+      "win_rate": 17.6,
+      "place2_rate": 11.8,
+      "place3_rate": 23.5,
+      "rentai2": 29.4,
+      "rentai3": 52.9,
+      "avg_st": 0.16,
+      "st_rank": 2.4,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.0,
+      "win_rate": 11.1,
+      "place2_rate": 16.7,
+      "place3_rate": 22.2,
+      "rentai2": 27.8,
+      "rentai3": 50.0,
+      "avg_st": 0.12,
+      "st_rank": 2.3,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 13.0,
+      "win_rate": 7.7,
+      "place2_rate": 15.4,
+      "place3_rate": 0.0,
+      "rentai2": 23.1,
+      "rentai3": 23.1,
+      "avg_st": 0.15,
+      "st_rank": 2.4,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 23.0,
+      "win_rate": 8.7,
+      "place2_rate": 21.7,
+      "place3_rate": 0.0,
+      "rentai2": 30.4,
+      "rentai3": 30.4,
+      "avg_st": 0.16,
+      "st_rank": 3.3,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 14.0,
+      "win_rate": 7.1,
+      "place2_rate": 14.3,
+      "place3_rate": 0.0,
+      "rentai2": 21.4,
+      "rentai3": 21.4,
+      "avg_st": 0.21,
+      "st_rank": 4.7,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4927": {
+    "1": {
+      "entry_rate": 19.5,
+      "win_rate": 57.7,
+      "place2_rate": 11.5,
+      "place3_rate": 3.8,
+      "rentai2": 69.2,
+      "rentai3": 73.1,
+      "avg_st": 0.15,
+      "st_rank": 2.6,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 18.0,
+      "win_rate": 20.8,
+      "place2_rate": 8.3,
+      "place3_rate": 25.0,
+      "rentai2": 29.1,
+      "rentai3": 54.2,
+      "avg_st": 0.16,
+      "st_rank": 3.4,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.0,
+      "win_rate": 8.3,
+      "place2_rate": 37.5,
+      "place3_rate": 12.5,
+      "rentai2": 45.8,
+      "rentai3": 58.3,
+      "avg_st": 0.14,
+      "st_rank": 3.0,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 15.8,
+      "win_rate": 4.8,
+      "place2_rate": 42.9,
+      "place3_rate": 0.0,
+      "rentai2": 47.7,
+      "rentai3": 47.6,
+      "avg_st": 0.18,
+      "st_rank": 3.3,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 15.0,
+      "win_rate": 5.0,
+      "place2_rate": 25.0,
+      "place3_rate": 25.0,
+      "rentai2": 30.0,
+      "rentai3": 55.0,
+      "avg_st": 0.15,
+      "st_rank": 2.4,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 13.5,
+      "win_rate": 5.6,
+      "place2_rate": 11.1,
+      "place3_rate": 11.1,
+      "rentai2": 16.7,
+      "rentai3": 27.8,
+      "avg_st": 0.17,
+      "st_rank": 3.7,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "3509": {
+    "1": {
+      "entry_rate": 14.7,
+      "win_rate": 36.4,
+      "place2_rate": 27.3,
+      "place3_rate": 9.1,
+      "rentai2": 63.7,
+      "rentai3": 72.7,
+      "avg_st": 0.15,
+      "st_rank": 2.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 18.7,
+      "win_rate": 7.1,
+      "place2_rate": 21.4,
+      "place3_rate": 0.0,
+      "rentai2": 28.5,
+      "rentai3": 28.6,
+      "avg_st": 0.14,
+      "st_rank": 2.9,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 20.0,
+      "win_rate": 6.7,
+      "place2_rate": 6.7,
+      "place3_rate": 0.0,
+      "rentai2": 13.4,
+      "rentai3": 13.3,
+      "avg_st": 0.14,
+      "st_rank": 2.5,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 16.0,
+      "win_rate": 8.3,
+      "place2_rate": 8.3,
+      "place3_rate": 0.0,
+      "rentai2": 16.6,
+      "rentai3": 16.7,
+      "avg_st": 0.15,
+      "st_rank": 2.6,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 17.3,
+      "win_rate": 7.7,
+      "place2_rate": 15.4,
+      "place3_rate": 0.0,
+      "rentai2": 23.1,
+      "rentai3": 23.1,
+      "avg_st": 0.13,
+      "st_rank": 3.3,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 13.3,
+      "win_rate": 10.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 30.0,
+      "rentai3": 30.0,
+      "avg_st": 0.17,
+      "st_rank": 3.3,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "5108": {
+    "1": {
+      "entry_rate": 12.2,
+      "win_rate": 16.7,
+      "place2_rate": 33.3,
+      "place3_rate": 0.0,
+      "rentai2": 50.0,
+      "rentai3": 50.0,
+      "avg_st": 0.28,
+      "st_rank": 4.8,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 26.5,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.24,
+      "st_rank": 4.8,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 16.3,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.22,
+      "st_rank": 4.9,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 14.3,
+      "win_rate": 14.3,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 14.3,
+      "rentai3": 14.3,
+      "avg_st": 0.26,
+      "st_rank": 4.0,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 16.3,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.26,
+      "st_rank": 4.7,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 14.3,
+      "win_rate": 14.3,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 14.3,
+      "rentai3": 14.3,
+      "avg_st": 0.26,
+      "st_rank": 5.3,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4680": {
+    "1": {
+      "entry_rate": 17.6,
+      "win_rate": 31.2,
+      "place2_rate": 37.5,
+      "place3_rate": 12.5,
+      "rentai2": 68.7,
+      "rentai3": 81.2,
+      "avg_st": 0.2,
+      "st_rank": 4.1,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 16.5,
+      "win_rate": 20.0,
+      "place2_rate": 13.3,
+      "place3_rate": 33.3,
+      "rentai2": 33.3,
+      "rentai3": 66.7,
+      "avg_st": 0.22,
+      "st_rank": 4.4,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 19.8,
+      "win_rate": 5.6,
+      "place2_rate": 27.8,
+      "place3_rate": 16.7,
+      "rentai2": 33.4,
+      "rentai3": 50.0,
+      "avg_st": 0.2,
+      "st_rank": 3.6,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 18.7,
+      "win_rate": 47.1,
+      "place2_rate": 17.6,
+      "place3_rate": 0.0,
+      "rentai2": 64.7,
+      "rentai3": 64.7,
+      "avg_st": 0.23,
+      "st_rank": 4.6,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 18.7,
+      "win_rate": 5.9,
+      "place2_rate": 11.8,
+      "place3_rate": 23.5,
+      "rentai2": 17.7,
+      "rentai3": 41.2,
+      "avg_st": 0.21,
+      "st_rank": 4.6,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 8.8,
+      "win_rate": 37.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 37.5,
+      "rentai3": 37.5,
+      "avg_st": 0.25,
+      "st_rank": 5.4,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "3470": {
+    "1": {
+      "entry_rate": 13.5,
+      "win_rate": 30.8,
+      "place2_rate": 15.4,
+      "place3_rate": 15.4,
+      "rentai2": 46.2,
+      "rentai3": 61.5,
+      "avg_st": 0.19,
+      "st_rank": 4.1,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 20.8,
+      "win_rate": 10.0,
+      "place2_rate": 35.0,
+      "place3_rate": 25.0,
+      "rentai2": 45.0,
+      "rentai3": 70.0,
+      "avg_st": 0.14,
+      "st_rank": 3.3,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 19.8,
+      "win_rate": 15.8,
+      "place2_rate": 15.8,
+      "place3_rate": 15.8,
+      "rentai2": 31.6,
+      "rentai3": 47.4,
+      "avg_st": 0.15,
+      "st_rank": 3.1,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 17.7,
+      "win_rate": 17.6,
+      "place2_rate": 5.9,
+      "place3_rate": 23.5,
+      "rentai2": 23.5,
+      "rentai3": 47.1,
+      "avg_st": 0.17,
+      "st_rank": 2.8,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 13.5,
+      "win_rate": 15.4,
+      "place2_rate": 15.4,
+      "place3_rate": 0.0,
+      "rentai2": 30.8,
+      "rentai3": 30.8,
+      "avg_st": 0.2,
+      "st_rank": 3.2,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 14.6,
+      "win_rate": 7.1,
+      "place2_rate": 28.6,
+      "place3_rate": 0.0,
+      "rentai2": 35.7,
+      "rentai3": 35.7,
+      "avg_st": 0.17,
+      "st_rank": 3.4,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "5198": {
+    "1": {
+      "entry_rate": 11.2,
+      "win_rate": 46.2,
+      "place2_rate": 30.8,
+      "place3_rate": 0.0,
+      "rentai2": 77.0,
+      "rentai3": 76.9,
+      "avg_st": 0.2,
+      "st_rank": 3.9,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 19.0,
+      "win_rate": 13.6,
+      "place2_rate": 22.7,
+      "place3_rate": 18.2,
+      "rentai2": 36.3,
+      "rentai3": 54.5,
+      "avg_st": 0.21,
+      "st_rank": 4.3,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.1,
+      "win_rate": 14.3,
+      "place2_rate": 33.3,
+      "place3_rate": 9.5,
+      "rentai2": 47.6,
+      "rentai3": 57.1,
+      "avg_st": 0.19,
+      "st_rank": 3.4,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 19.8,
+      "win_rate": 13.0,
+      "place2_rate": 13.0,
+      "place3_rate": 13.0,
+      "rentai2": 26.0,
+      "rentai3": 39.1,
+      "avg_st": 0.21,
+      "st_rank": 3.5,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 17.2,
+      "win_rate": 20.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 20.0,
+      "rentai3": 20.0,
+      "avg_st": 0.19,
+      "st_rank": 3.9,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 14.7,
+      "win_rate": 17.6,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 17.6,
+      "rentai3": 17.6,
+      "avg_st": 0.19,
+      "st_rank": 4.8,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4791": {
+    "1": {
+      "entry_rate": 15.1,
+      "win_rate": 35.7,
+      "place2_rate": 14.3,
+      "place3_rate": 14.3,
+      "rentai2": 50.0,
+      "rentai3": 64.3,
+      "avg_st": 0.19,
+      "st_rank": 3.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 18.3,
+      "win_rate": 17.6,
+      "place2_rate": 29.4,
+      "place3_rate": 11.8,
+      "rentai2": 47.0,
+      "rentai3": 58.8,
+      "avg_st": 0.19,
+      "st_rank": 3.6,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 22.6,
+      "win_rate": 19.0,
+      "place2_rate": 33.3,
+      "place3_rate": 9.5,
+      "rentai2": 52.3,
+      "rentai3": 61.9,
+      "avg_st": 0.18,
+      "st_rank": 3.1,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 11.8,
+      "win_rate": 27.3,
+      "place2_rate": 27.3,
+      "place3_rate": 0.0,
+      "rentai2": 54.6,
+      "rentai3": 54.5,
+      "avg_st": 0.2,
+      "st_rank": 3.3,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 14.0,
+      "win_rate": 15.4,
+      "place2_rate": 15.4,
+      "place3_rate": 0.0,
+      "rentai2": 30.8,
+      "rentai3": 30.8,
+      "avg_st": 0.19,
+      "st_rank": 3.9,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 18.3,
+      "win_rate": 23.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 23.5,
+      "rentai3": 23.5,
+      "avg_st": 0.23,
+      "st_rank": 4.9,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4947": {
+    "1": {
+      "entry_rate": 13.0,
+      "win_rate": 46.7,
+      "place2_rate": 6.7,
+      "place3_rate": 13.3,
+      "rentai2": 53.4,
+      "rentai3": 66.7,
+      "avg_st": 0.2,
+      "st_rank": 3.3,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 19.1,
+      "win_rate": 9.1,
+      "place2_rate": 27.3,
+      "place3_rate": 18.2,
+      "rentai2": 36.4,
+      "rentai3": 54.5,
+      "avg_st": 0.19,
+      "st_rank": 4.5,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 19.1,
+      "win_rate": 22.7,
+      "place2_rate": 9.1,
+      "place3_rate": 0.0,
+      "rentai2": 31.8,
+      "rentai3": 31.8,
+      "avg_st": 0.15,
+      "st_rank": 2.5,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 17.4,
+      "win_rate": 5.0,
+      "place2_rate": 25.0,
+      "place3_rate": 0.0,
+      "rentai2": 30.0,
+      "rentai3": 30.0,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 15.7,
+      "win_rate": 16.7,
+      "place2_rate": 22.2,
+      "place3_rate": 0.0,
+      "rentai2": 38.9,
+      "rentai3": 38.9,
+      "avg_st": 0.18,
+      "st_rank": 3.3,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.7,
+      "win_rate": 16.7,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 16.7,
+      "rentai3": 16.7,
+      "avg_st": 0.17,
+      "st_rank": 3.7,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4738": {
+    "1": {
+      "entry_rate": 21.8,
+      "win_rate": 67.7,
+      "place2_rate": 12.9,
+      "place3_rate": 9.7,
+      "rentai2": 80.6,
+      "rentai3": 90.3,
+      "avg_st": 0.13,
+      "st_rank": 2.3,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 14.1,
+      "win_rate": 40.0,
+      "place2_rate": 15.0,
+      "place3_rate": 25.0,
+      "rentai2": 55.0,
+      "rentai3": 80.0,
+      "avg_st": 0.18,
+      "st_rank": 3.1,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 16.2,
+      "win_rate": 17.4,
+      "place2_rate": 30.4,
+      "place3_rate": 21.7,
+      "rentai2": 47.8,
+      "rentai3": 69.6,
+      "avg_st": 0.14,
+      "st_rank": 2.8,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 14.8,
+      "win_rate": 4.8,
+      "place2_rate": 9.5,
+      "place3_rate": 23.8,
+      "rentai2": 14.3,
+      "rentai3": 38.1,
+      "avg_st": 0.16,
+      "st_rank": 2.6,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 19.0,
+      "win_rate": 11.1,
+      "place2_rate": 14.8,
+      "place3_rate": 0.0,
+      "rentai2": 25.9,
+      "rentai3": 25.9,
+      "avg_st": 0.17,
+      "st_rank": 3.4,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 14.1,
+      "win_rate": 5.0,
+      "place2_rate": 10.0,
+      "place3_rate": 0.0,
+      "rentai2": 15.0,
+      "rentai3": 15.0,
+      "avg_st": 0.17,
+      "st_rank": 3.6,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4349": {
+    "1": {
+      "entry_rate": 11.2,
+      "win_rate": 22.2,
+      "place2_rate": 22.2,
+      "place3_rate": 33.3,
+      "rentai2": 44.4,
+      "rentai3": 77.8,
+      "avg_st": 0.2,
+      "st_rank": 3.4,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 21.2,
+      "win_rate": 5.9,
+      "place2_rate": 17.6,
+      "place3_rate": 23.5,
+      "rentai2": 23.5,
+      "rentai3": 47.1,
+      "avg_st": 0.18,
+      "st_rank": 3.7,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 17.5,
+      "win_rate": 7.1,
+      "place2_rate": 21.4,
+      "place3_rate": 7.1,
+      "rentai2": 28.5,
+      "rentai3": 35.7,
+      "avg_st": 0.13,
+      "st_rank": 2.6,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 16.2,
+      "win_rate": 7.7,
+      "place2_rate": 15.4,
+      "place3_rate": 7.7,
+      "rentai2": 23.1,
+      "rentai3": 30.8,
+      "avg_st": 0.15,
+      "st_rank": 2.8,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 23.8,
+      "win_rate": 10.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 10.5,
+      "rentai3": 10.5,
+      "avg_st": 0.15,
+      "st_rank": 3.4,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 10.0,
+      "win_rate": 12.5,
+      "place2_rate": 12.5,
+      "place3_rate": 25.0,
+      "rentai2": 25.0,
+      "rentai3": 50.0,
+      "avg_st": 0.1,
+      "st_rank": 2.0,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4478": {
+    "1": {
+      "entry_rate": 21.2,
+      "win_rate": 68.0,
+      "place2_rate": 12.0,
+      "place3_rate": 8.0,
+      "rentai2": 80.0,
+      "rentai3": 88.0,
+      "avg_st": 0.17,
+      "st_rank": 3.2,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 16.9,
+      "win_rate": 20.0,
+      "place2_rate": 35.0,
+      "place3_rate": 35.0,
+      "rentai2": 55.0,
+      "rentai3": 90.0,
+      "avg_st": 0.14,
+      "st_rank": 3.5,
+      "tactical_type": "2C鋭角差し・直まくり逆転巧者"
+    },
+    "3": {
+      "entry_rate": 18.6,
+      "win_rate": 27.3,
+      "place2_rate": 4.5,
+      "place3_rate": 36.4,
+      "rentai2": 31.8,
+      "rentai3": 68.2,
+      "avg_st": 0.15,
+      "st_rank": 3.0,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 14.4,
+      "win_rate": 23.5,
+      "place2_rate": 23.5,
+      "place3_rate": 29.4,
+      "rentai2": 47.0,
+      "rentai3": 76.5,
+      "avg_st": 0.14,
+      "st_rank": 2.6,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 14.4,
+      "win_rate": 5.9,
+      "place2_rate": 23.5,
+      "place3_rate": 23.5,
+      "rentai2": 29.4,
+      "rentai3": 52.9,
+      "avg_st": 0.16,
+      "st_rank": 3.4,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 14.4,
+      "win_rate": 23.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 23.5,
+      "rentai3": 23.5,
+      "avg_st": 0.19,
+      "st_rank": 3.9,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4990": {
+    "1": {
+      "entry_rate": 12.5,
+      "win_rate": 16.7,
+      "place2_rate": 16.7,
+      "place3_rate": 0.0,
+      "rentai2": 33.4,
+      "rentai3": 33.3,
+      "avg_st": 0.18,
+      "st_rank": 3.5,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 18.8,
+      "win_rate": 11.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 11.1,
+      "rentai3": 11.1,
+      "avg_st": 0.26,
+      "st_rank": 4.9,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 16.7,
+      "win_rate": 12.5,
+      "place2_rate": 12.5,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.19,
+      "st_rank": 3.9,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 16.7,
+      "win_rate": 12.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 12.5,
+      "rentai3": 12.5,
+      "avg_st": 0.25,
+      "st_rank": 4.8,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 12.5,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.18,
+      "st_rank": 3.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 22.9,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.19,
+      "st_rank": 3.5,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5182": {
+    "1": {
+      "entry_rate": 20.7,
+      "win_rate": 36.8,
+      "place2_rate": 26.3,
+      "place3_rate": 0.0,
+      "rentai2": 63.1,
+      "rentai3": 63.2,
+      "avg_st": 0.13,
+      "st_rank": 1.9,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 19.6,
+      "win_rate": 5.6,
+      "place2_rate": 38.9,
+      "place3_rate": 11.1,
+      "rentai2": 44.5,
+      "rentai3": 55.6,
+      "avg_st": 0.15,
+      "st_rank": 3.1,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 15.2,
+      "win_rate": 14.3,
+      "place2_rate": 14.3,
+      "place3_rate": 14.3,
+      "rentai2": 28.6,
+      "rentai3": 42.9,
+      "avg_st": 0.16,
+      "st_rank": 2.9,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 10.9,
+      "win_rate": 10.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 30.0,
+      "rentai3": 30.0,
+      "avg_st": 0.15,
+      "st_rank": 2.4,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 18.5,
+      "win_rate": 23.5,
+      "place2_rate": 23.5,
+      "place3_rate": 23.5,
+      "rentai2": 47.0,
+      "rentai3": 70.6,
+      "avg_st": 0.1,
+      "st_rank": 2.2,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.2,
+      "win_rate": 21.4,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 21.4,
+      "rentai3": 21.4,
+      "avg_st": 0.15,
+      "st_rank": 3.0,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4961": {
+    "1": {
+      "entry_rate": 17.6,
+      "win_rate": 57.1,
+      "place2_rate": 33.3,
+      "place3_rate": 4.8,
+      "rentai2": 90.4,
+      "rentai3": 95.2,
+      "avg_st": 0.13,
+      "st_rank": 2.4,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 21.0,
+      "win_rate": 20.0,
+      "place2_rate": 20.0,
+      "place3_rate": 20.0,
+      "rentai2": 40.0,
+      "rentai3": 60.0,
+      "avg_st": 0.14,
+      "st_rank": 3.6,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 16.0,
+      "win_rate": 26.3,
+      "place2_rate": 15.8,
+      "place3_rate": 21.1,
+      "rentai2": 42.1,
+      "rentai3": 63.2,
+      "avg_st": 0.15,
+      "st_rank": 2.8,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 16.8,
+      "win_rate": 5.0,
+      "place2_rate": 30.0,
+      "place3_rate": 5.0,
+      "rentai2": 35.0,
+      "rentai3": 40.0,
+      "avg_st": 0.16,
+      "st_rank": 3.7,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 16.0,
+      "win_rate": 21.1,
+      "place2_rate": 21.1,
+      "place3_rate": 0.0,
+      "rentai2": 42.2,
+      "rentai3": 42.1,
+      "avg_st": 0.16,
+      "st_rank": 3.9,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 12.6,
+      "win_rate": 6.7,
+      "place2_rate": 6.7,
+      "place3_rate": 26.7,
+      "rentai2": 13.4,
+      "rentai3": 40.0,
+      "avg_st": 0.14,
+      "st_rank": 3.1,
+      "tactical_type": "6Cヒモ穴3着浮上型"
+    },
+    "season_summary": {}
+  },
+  "5230": {
+    "1": {
+      "entry_rate": 14.3,
+      "win_rate": 50.0,
+      "place2_rate": 16.7,
+      "place3_rate": 8.3,
+      "rentai2": 66.7,
+      "rentai3": 75.0,
+      "avg_st": 0.19,
+      "st_rank": 4.2,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 16.7,
+      "win_rate": 7.1,
+      "place2_rate": 21.4,
+      "place3_rate": 7.1,
+      "rentai2": 28.5,
+      "rentai3": 35.7,
+      "avg_st": 0.21,
+      "st_rank": 4.0,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 14.3,
+      "win_rate": 16.7,
+      "place2_rate": 41.7,
+      "place3_rate": 0.0,
+      "rentai2": 58.4,
+      "rentai3": 58.3,
+      "avg_st": 0.21,
+      "st_rank": 4.0,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 19.0,
+      "win_rate": 18.8,
+      "place2_rate": 6.2,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.18,
+      "st_rank": 3.9,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 20.2,
+      "win_rate": 23.5,
+      "place2_rate": 11.8,
+      "place3_rate": 0.0,
+      "rentai2": 35.3,
+      "rentai3": 35.3,
+      "avg_st": 0.17,
+      "st_rank": 3.9,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 15.5,
+      "win_rate": 7.7,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 7.7,
+      "rentai3": 7.7,
+      "avg_st": 0.22,
+      "st_rank": 4.2,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5306": {
+    "1": {
+      "entry_rate": 10.5,
+      "win_rate": 8.3,
+      "place2_rate": 16.7,
+      "place3_rate": 0.0,
+      "rentai2": 25.0,
+      "rentai3": 25.0,
+      "avg_st": 0.21,
+      "st_rank": 4.3,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 19.3,
+      "win_rate": 4.5,
+      "place2_rate": 9.1,
+      "place3_rate": 0.0,
+      "rentai2": 13.6,
+      "rentai3": 13.6,
+      "avg_st": 0.2,
+      "st_rank": 4.3,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 21.1,
+      "win_rate": 4.2,
+      "place2_rate": 12.5,
+      "place3_rate": 25.0,
+      "rentai2": 16.7,
+      "rentai3": 41.7,
+      "avg_st": 0.19,
+      "st_rank": 3.3,
+      "tactical_type": "3C標準センター攻め型"
+    },
+    "4": {
+      "entry_rate": 14.9,
+      "win_rate": 23.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 23.5,
+      "rentai3": 23.5,
+      "avg_st": 0.19,
+      "st_rank": 3.8,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 20.2,
+      "win_rate": 4.3,
+      "place2_rate": 4.3,
+      "place3_rate": 0.0,
+      "rentai2": 8.6,
+      "rentai3": 8.7,
+      "avg_st": 0.16,
+      "st_rank": 2.7,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 14.0,
+      "win_rate": 6.2,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 6.2,
+      "rentai3": 6.2,
+      "avg_st": 0.22,
+      "st_rank": 3.7,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "4765": {
+    "1": {
+      "entry_rate": 16.8,
+      "win_rate": 43.8,
+      "place2_rate": 6.2,
+      "place3_rate": 18.8,
+      "rentai2": 50.0,
+      "rentai3": 68.8,
+      "avg_st": 0.14,
+      "st_rank": 2.8,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 14.7,
+      "win_rate": 14.3,
+      "place2_rate": 35.7,
+      "place3_rate": 7.1,
+      "rentai2": 50.0,
+      "rentai3": 57.1,
+      "avg_st": 0.13,
+      "st_rank": 2.3,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 16.8,
+      "win_rate": 18.8,
+      "place2_rate": 18.8,
+      "place3_rate": 18.8,
+      "rentai2": 37.6,
+      "rentai3": 56.2,
+      "avg_st": 0.14,
+      "st_rank": 1.9,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 21.1,
+      "win_rate": 10.0,
+      "place2_rate": 5.0,
+      "place3_rate": 5.0,
+      "rentai2": 15.0,
+      "rentai3": 20.0,
+      "avg_st": 0.14,
+      "st_rank": 2.7,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 16.8,
+      "win_rate": 6.2,
+      "place2_rate": 12.5,
+      "place3_rate": 12.5,
+      "rentai2": 18.7,
+      "rentai3": 31.2,
+      "avg_st": 0.1,
+      "st_rank": 2.5,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 13.7,
+      "win_rate": 7.7,
+      "place2_rate": 7.7,
+      "place3_rate": 0.0,
+      "rentai2": 15.4,
+      "rentai3": 15.4,
+      "avg_st": 0.11,
+      "st_rank": 2.3,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5334": {
+    "1": {
+      "entry_rate": 11.6,
+      "win_rate": 18.2,
+      "place2_rate": 9.1,
+      "place3_rate": 18.2,
+      "rentai2": 27.3,
+      "rentai3": 45.5,
+      "avg_st": 0.16,
+      "st_rank": 2.7,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 14.7,
+      "win_rate": 14.3,
+      "place2_rate": 21.4,
+      "place3_rate": 0.0,
+      "rentai2": 35.7,
+      "rentai3": 35.7,
+      "avg_st": 0.18,
+      "st_rank": 3.7,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 22.1,
+      "win_rate": 4.8,
+      "place2_rate": 19.0,
+      "place3_rate": 0.0,
+      "rentai2": 23.8,
+      "rentai3": 23.8,
+      "avg_st": 0.17,
+      "st_rank": 3.7,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 17.9,
+      "win_rate": 5.9,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 5.9,
+      "rentai3": 5.9,
+      "avg_st": 0.2,
+      "st_rank": 4.3,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 16.8,
+      "win_rate": 6.2,
+      "place2_rate": 12.5,
+      "place3_rate": 0.0,
+      "rentai2": 18.7,
+      "rentai3": 18.8,
+      "avg_st": 0.19,
+      "st_rank": 4.4,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 16.8,
+      "win_rate": 6.2,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 6.2,
+      "rentai3": 6.2,
+      "avg_st": 0.19,
+      "st_rank": 4.3,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5283": {
+    "1": {
+      "entry_rate": 8.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.23,
+      "st_rank": 5.0,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 21.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.22,
+      "st_rank": 4.9,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 19.6,
+      "win_rate": 11.1,
+      "place2_rate": 11.1,
+      "place3_rate": 0.0,
+      "rentai2": 22.2,
+      "rentai3": 22.2,
+      "avg_st": 0.19,
+      "st_rank": 3.4,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 19.6,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.25,
+      "st_rank": 4.3,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 19.6,
+      "win_rate": 11.1,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 11.1,
+      "rentai3": 11.1,
+      "avg_st": 0.22,
+      "st_rank": 4.2,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 10.9,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.19,
+      "st_rank": 3.6,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5184": {
+    "1": {
+      "entry_rate": 9.5,
+      "win_rate": 50.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 50.0,
+      "rentai3": 50.0,
+      "avg_st": 0.2,
+      "st_rank": 4.7,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 14.3,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.25,
+      "st_rank": 5.0,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 23.8,
+      "win_rate": 10.0,
+      "place2_rate": 10.0,
+      "place3_rate": 0.0,
+      "rentai2": 20.0,
+      "rentai3": 20.0,
+      "avg_st": 0.21,
+      "st_rank": 4.2,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 21.4,
+      "win_rate": 11.1,
+      "place2_rate": 11.1,
+      "place3_rate": 0.0,
+      "rentai2": 22.2,
+      "rentai3": 22.2,
+      "avg_st": 0.23,
+      "st_rank": 4.8,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 19.0,
+      "win_rate": 37.5,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 37.5,
+      "rentai3": 37.5,
+      "avg_st": 0.17,
+      "st_rank": 3.0,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 11.9,
+      "win_rate": 20.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 20.0,
+      "rentai3": 20.0,
+      "avg_st": 0.18,
+      "st_rank": 3.8,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "5203": {
+    "1": {
+      "entry_rate": 14.5,
+      "win_rate": 50.0,
+      "place2_rate": 37.5,
+      "place3_rate": 6.2,
+      "rentai2": 87.5,
+      "rentai3": 93.8,
+      "avg_st": 0.15,
+      "st_rank": 3.1,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 19.1,
+      "win_rate": 14.3,
+      "place2_rate": 14.3,
+      "place3_rate": 42.9,
+      "rentai2": 28.6,
+      "rentai3": 71.4,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 17.3,
+      "win_rate": 21.1,
+      "place2_rate": 5.3,
+      "place3_rate": 10.5,
+      "rentai2": 26.4,
+      "rentai3": 36.8,
+      "avg_st": 0.15,
+      "st_rank": 2.8,
+      "tactical_type": "3Cスリット強襲・ツケマイまくり型"
+    },
+    "4": {
+      "entry_rate": 18.2,
+      "win_rate": 10.0,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 30.0,
+      "rentai3": 30.0,
+      "avg_st": 0.14,
+      "st_rank": 2.8,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 17.3,
+      "win_rate": 5.3,
+      "place2_rate": 15.8,
+      "place3_rate": 26.3,
+      "rentai2": 21.1,
+      "rentai3": 47.4,
+      "avg_st": 0.16,
+      "st_rank": 2.9,
+      "tactical_type": "5C連動差し・3連対巧者"
+    },
+    "6": {
+      "entry_rate": 13.6,
+      "win_rate": 20.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 20.0,
+      "rentai3": 20.0,
+      "avg_st": 0.18,
+      "st_rank": 4.4,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4897": {
+    "1": {
+      "entry_rate": 13.1,
+      "win_rate": 21.4,
+      "place2_rate": 7.1,
+      "place3_rate": 14.3,
+      "rentai2": 28.5,
+      "rentai3": 42.9,
+      "avg_st": 0.19,
+      "st_rank": 3.6,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 15.9,
+      "win_rate": 5.9,
+      "place2_rate": 23.5,
+      "place3_rate": 17.6,
+      "rentai2": 29.4,
+      "rentai3": 47.1,
+      "avg_st": 0.21,
+      "st_rank": 4.0,
+      "tactical_type": "2C標準差し型"
+    },
+    "3": {
+      "entry_rate": 18.7,
+      "win_rate": 5.0,
+      "place2_rate": 15.0,
+      "place3_rate": 15.0,
+      "rentai2": 20.0,
+      "rentai3": 35.0,
+      "avg_st": 0.21,
+      "st_rank": 3.5,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 17.8,
+      "win_rate": 5.3,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 5.3,
+      "rentai3": 5.3,
+      "avg_st": 0.21,
+      "st_rank": 4.5,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 15.9,
+      "win_rate": 5.9,
+      "place2_rate": 17.6,
+      "place3_rate": 0.0,
+      "rentai2": 23.5,
+      "rentai3": 23.5,
+      "avg_st": 0.2,
+      "st_rank": 3.3,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 18.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.22,
+      "st_rank": 4.9,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "5361": {
+    "1": {
+      "entry_rate": 1.4,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.55,
+      "st_rank": 6.0,
+      "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
+    },
+    "2": {
+      "entry_rate": 2.7,
+      "win_rate": 0.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 0.0,
+      "rentai3": 0.0,
+      "avg_st": 0.23,
+      "st_rank": 3.5,
+      "tactical_type": "2C苦戦傾向(差し遅れ注意)"
+    },
+    "3": {
+      "entry_rate": 6.8,
+      "win_rate": 20.0,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 20.0,
+      "rentai3": 20.0,
+      "avg_st": 0.18,
+      "st_rank": 4.0,
+      "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
+    },
+    "4": {
+      "entry_rate": 23.3,
+      "win_rate": 17.6,
+      "place2_rate": 0.0,
+      "place3_rate": 0.0,
+      "rentai2": 17.6,
+      "rentai3": 17.6,
+      "avg_st": 0.24,
+      "st_rank": 3.6,
+      "tactical_type": "4C展開待ち傾向"
+    },
+    "5": {
+      "entry_rate": 27.4,
+      "win_rate": 5.0,
+      "place2_rate": 5.0,
+      "place3_rate": 0.0,
+      "rentai2": 10.0,
+      "rentai3": 10.0,
+      "avg_st": 0.23,
+      "st_rank": 4.2,
+      "tactical_type": "5C展開連動待ち型"
+    },
+    "6": {
+      "entry_rate": 38.4,
+      "win_rate": 3.6,
+      "place2_rate": 7.1,
+      "place3_rate": 0.0,
+      "rentai2": 10.7,
+      "rentai3": 10.7,
+      "avg_st": 0.22,
+      "st_rank": 4.6,
+      "tactical_type": "6C大外展開待ち型"
+    },
+    "season_summary": {}
+  },
+  "3334": {
+    "1": {
+      "entry_rate": 23.0,
+      "win_rate": 51.6,
+      "place2_rate": 16.1,
+      "place3_rate": 6.5,
+      "rentai2": 67.7,
+      "rentai3": 74.2,
+      "avg_st": 0.2,
+      "st_rank": 4.2,
+      "tactical_type": "イン標準先マイ型"
+    },
+    "2": {
+      "entry_rate": 17.0,
+      "win_rate": 4.3,
+      "place2_rate": 39.1,
+      "place3_rate": 21.7,
+      "rentai2": 43.4,
+      "rentai3": 65.2,
+      "avg_st": 0.22,
+      "st_rank": 4.1,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 16.3,
+      "win_rate": 9.1,
+      "place2_rate": 45.5,
+      "place3_rate": 18.2,
+      "rentai2": 54.6,
+      "rentai3": 72.7,
+      "avg_st": 0.19,
+      "st_rank": 4.1,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 16.3,
+      "win_rate": 27.3,
+      "place2_rate": 31.8,
+      "place3_rate": 0.0,
+      "rentai2": 59.1,
+      "rentai3": 59.1,
+      "avg_st": 0.21,
+      "st_rank": 4.5,
+      "tactical_type": "4カド一撃まくり・まくり差し強襲型"
+    },
+    "5": {
+      "entry_rate": 16.3,
+      "win_rate": 18.2,
+      "place2_rate": 18.2,
+      "place3_rate": 0.0,
+      "rentai2": 36.4,
+      "rentai3": 36.4,
+      "avg_st": 0.19,
+      "st_rank": 4.5,
+      "tactical_type": "5Cまくり差し一撃・外強襲巧者"
+    },
+    "6": {
+      "entry_rate": 11.1,
+      "win_rate": 6.7,
+      "place2_rate": 20.0,
+      "place3_rate": 0.0,
+      "rentai2": 26.7,
+      "rentai3": 26.7,
+      "avg_st": 0.21,
+      "st_rank": 4.5,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  },
+  "4347": {
+    "1": {
+      "entry_rate": 22.4,
+      "win_rate": 58.3,
+      "place2_rate": 20.8,
+      "place3_rate": 12.5,
+      "rentai2": 79.1,
+      "rentai3": 91.7,
+      "avg_st": 0.17,
+      "st_rank": 3.5,
+      "tactical_type": "イン高信頼押し切り型"
+    },
+    "2": {
+      "entry_rate": 19.6,
+      "win_rate": 14.3,
+      "place2_rate": 23.8,
+      "place3_rate": 38.1,
+      "rentai2": 38.1,
+      "rentai3": 76.2,
+      "avg_st": 0.18,
+      "st_rank": 3.7,
+      "tactical_type": "2C堅実差し追従・連下軸型"
+    },
+    "3": {
+      "entry_rate": 13.1,
+      "win_rate": 21.4,
+      "place2_rate": 14.3,
+      "place3_rate": 28.6,
+      "rentai2": 35.7,
+      "rentai3": 64.3,
+      "avg_st": 0.18,
+      "st_rank": 3.6,
+      "tactical_type": "3C自在まくり差し・外マイ連対型"
+    },
+    "4": {
+      "entry_rate": 12.1,
+      "win_rate": 15.4,
+      "place2_rate": 30.8,
+      "place3_rate": 0.0,
+      "rentai2": 46.2,
+      "rentai3": 46.2,
+      "avg_st": 0.2,
+      "st_rank": 4.0,
+      "tactical_type": "4C標準カド戦型"
+    },
+    "5": {
+      "entry_rate": 17.8,
+      "win_rate": 5.3,
+      "place2_rate": 15.8,
+      "place3_rate": 26.3,
+      "rentai2": 21.1,
+      "rentai3": 47.4,
+      "avg_st": 0.18,
+      "st_rank": 3.1,
+      "tactical_type": "5C連動差し・3連対巧者"
+    },
+    "6": {
+      "entry_rate": 15.0,
+      "win_rate": 6.2,
+      "place2_rate": 43.8,
+      "place3_rate": 0.0,
+      "rentai2": 50.0,
+      "rentai3": 50.0,
+      "avg_st": 0.17,
+      "st_rank": 3.1,
+      "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
+    },
+    "season_summary": {}
+  }
+}
