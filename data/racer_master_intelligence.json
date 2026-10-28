@@ -15,7 +15,7 @@
       "6コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
       "accumulated_rentai3": 0.0,
@@ -98,7 +98,7 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 3,
+        "ladies_actual_runs": 4,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
         "effective_rentai2": 0.0,
@@ -116,16 +116,15 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対44%)",
-      "2コース(実効3連対36%)",
       "3コース(実効3連対8%)",
       "4コース(実効3連対33%)",
       "5コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 33.3,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 0.0,
@@ -153,11 +152,11 @@
         "official_rentai3": 35.7,
         "official_avg_st": 0.16,
         "official_st_rank": 3.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 35.7,
-        "effective_rentai3": 35.7,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 31.7,
+        "effective_rentai3": 42.8,
         "tactical_type": "2C堅実差し追従・連下軸型"
       },
       "3": {
@@ -192,7 +191,7 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.2,
         "official_st_rank": 3.7,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
         "effective_rentai2": 0.0,
@@ -224,17 +223,17 @@
       "3コース(実効3連対89%・3C自在まくり差し・外マイ連対型)"
     ],
     "weak_courses": [
-      "1コース(実効3連対0%)",
+      "1コース(実効3連対11%)",
       "2コース(実効3連対0%)",
       "4コース(実効3連対22%)",
       "5コース(実効3連対13%)",
       "6コース(実効3連対3%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 0.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 20.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -249,11 +248,11 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 11.1,
+        "effective_rentai3": 11.1,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -337,10 +336,10 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 50.0,
-      "accumulated_rentai3": 50.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -381,11 +380,11 @@
         "official_rentai3": 52.4,
         "official_avg_st": 0.13,
         "official_st_rank": 2.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 38.1,
-        "effective_rentai3": 52.4,
+        "effective_rentai2": 33.9,
+        "effective_rentai3": 46.6,
         "tactical_type": "3Cスリット強襲・ツケマイまくり型"
       },
       "4": {
@@ -436,16 +435,16 @@
     "scouting_desc": "",
     "season_summary": {},
     "best_courses": [
-      "2コース(実効3連対85%・2C鋭角差し・直まくり逆転巧者)",
+      "2コース(実効3連対76%・2C鋭角差し・直まくり逆転巧者)",
       "4コース(実効3連対58%・4カド一撃まくり・まくり差し強襲型)",
       "5コース(実効3連対47%・5Cまくり差し一撃・外強襲巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 25.0,
-      "accumulated_rentai3": 25.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 20.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -473,11 +472,11 @@
         "official_rentai3": 85.0,
         "official_avg_st": 0.13,
         "official_st_rank": 2.2,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 65.0,
-        "effective_rentai3": 85.0,
+        "effective_rentai2": 57.8,
+        "effective_rentai3": 75.6,
         "tactical_type": "2C鋭角差し・直まくり逆転巧者"
       },
       "3": {
@@ -544,16 +543,16 @@
       "6コース(実効3連対36%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [
-      "1コース(実効3連対31%)",
+      "1コース(実効3連対38%)",
       "2コース(実効3連対40%)",
       "3コース(実効3連対37%)",
-      "5コース(実効3連対17%)"
+      "5コース(実効3連対15%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 33.3,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -568,11 +567,11 @@
         "official_rentai3": 30.8,
         "official_avg_st": 0.17,
         "official_st_rank": 2.6,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 23.1,
-        "effective_rentai3": 30.8,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 31.6,
+        "effective_rentai3": 38.5,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -620,11 +619,11 @@
         "official_rentai3": 16.7,
         "official_avg_st": 0.17,
         "official_st_rank": 2.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 16.7,
-        "effective_rentai3": 16.7,
+        "effective_rentai2": 14.8,
+        "effective_rentai3": 14.8,
         "tactical_type": "5C展開連動待ち型"
       },
       "6": {
@@ -650,18 +649,18 @@
     "season_summary": {},
     "best_courses": [
       "2コース(実効3連対67%・2C標準差し型)",
-      "3コース(実効3連対65%・3Cスリット強襲・ツケマイまくり型)",
+      "3コース(実効3連対72%・3Cスリット強襲・ツケマイまくり型)",
       "4コース(実効3連対72%・4カド一撃まくり・まくり差し強襲型)",
       "5コース(実効3連対53%・5Cまくり差し一撃・外強襲巧者)",
       "6コース(実効3連対40%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 66.7,
-      "accumulated_rentai2": 66.7,
-      "accumulated_rentai3": 66.7,
-      "ex_outperform_count": 0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 40.0,
+      "accumulated_rentai2": 60.0,
+      "accumulated_rentai3": 80.0,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
@@ -701,11 +700,11 @@
         "official_rentai3": 64.7,
         "official_avg_st": 0.13,
         "official_st_rank": 3.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 47.0,
-        "effective_rentai3": 64.7,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 47.6,
+        "effective_rentai3": 71.8,
         "tactical_type": "3Cスリット強襲・ツケマイまくり型"
       },
       "4": {
@@ -759,20 +758,20 @@
       "3コース(実効3連対60%・3C自在まくり差し・外マイ連対型)"
     ],
     "weak_courses": [
-      "1コース(実効3連対60%)",
+      "1コース(実効3連対64%)",
       "2コース(実効3連対41%)",
-      "4コース(実効3連対30%)",
+      "4コース(実効3連対27%)",
       "5コース(実効3連対19%)",
       "6コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 33.3,
-      "accumulated_rentai3": 33.3,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 100.0,
       "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -784,11 +783,11 @@
         "official_rentai3": 60.0,
         "official_avg_st": 0.13,
         "official_st_rank": 3.2,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 40.0,
-        "effective_rentai3": 60.0,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 46.7,
+        "effective_rentai3": 64.4,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -823,11 +822,11 @@
         "official_rentai3": 30.0,
         "official_avg_st": 0.23,
         "official_st_rank": 4.3,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 30.0,
-        "effective_rentai3": 30.0,
+        "effective_rentai2": 26.7,
+        "effective_rentai3": 26.7,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -868,13 +867,13 @@
       "3コース(実効3連対69%・3C自在まくり差し・外マイ連対型)"
     ],
     "weak_courses": [
-      "4コース(実効3連対25%)"
+      "4コース(実効3連対22%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 33.3,
+      "accumulated_rentai3": 20.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -928,11 +927,11 @@
         "official_rentai3": 25.0,
         "official_avg_st": 0.2,
         "official_st_rank": 3.8,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 25.0,
-        "effective_rentai3": 25.0,
+        "effective_rentai2": 22.2,
+        "effective_rentai3": 22.2,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -941,11 +940,11 @@
         "official_rentai3": 28.6,
         "official_avg_st": 0.19,
         "official_st_rank": 3.1,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 19.0,
-        "effective_rentai3": 25.4,
+        "effective_rentai2": 17.1,
+        "effective_rentai3": 22.9,
         "tactical_type": "5C展開連動待ち型"
       },
       "6": {
@@ -972,17 +971,15 @@
     "best_courses": [
       "4コース(実効3連対58%・4C二番差し・道中捌き連対巧者)"
     ],
-    "weak_courses": [
-      "1コース(実効3連対67%)"
-    ],
+    "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 40.0,
-      "accumulated_rentai3": 40.0,
+      "accumulated_rentai2": 33.3,
+      "accumulated_rentai3": 50.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 100.0,
       "upset_maker_count": 0,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -994,11 +991,11 @@
         "official_rentai3": 66.7,
         "official_avg_st": 0.14,
         "official_st_rank": 2.6,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 41.6,
-        "effective_rentai3": 66.7,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 37.0,
+        "effective_rentai3": 70.4,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -1079,13 +1076,13 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 75.0,
-      "accumulated_rentai3": 75.0,
+      "accumulated_rentai2": 66.7,
+      "accumulated_rentai3": 66.7,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 100.0,
       "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -1097,11 +1094,11 @@
         "official_rentai3": 68.8,
         "official_avg_st": 0.17,
         "official_st_rank": 3.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 50.0,
-        "effective_rentai3": 68.8,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 55.6,
+        "effective_rentai3": 72.3,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -1149,11 +1146,11 @@
         "official_rentai3": 26.3,
         "official_avg_st": 0.17,
         "official_st_rank": 3.6,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 26.3,
-        "effective_rentai3": 26.3,
+        "effective_rentai2": 23.4,
+        "effective_rentai3": 23.4,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
@@ -1177,12 +1174,14 @@
     "style_label": "実戦データ自動解析レーサー",
     "scouting_desc": "",
     "season_summary": {},
-    "best_courses": [],
+    "best_courses": [
+      "3コース(実効3連対62%・3C自在まくり差し・外マイ連対型)"
+    ],
     "weak_courses": [
-      "5コース(実効3連対18%)"
+      "5コース(実効3連対16%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
       "accumulated_rentai3": 50.0,
@@ -1226,11 +1225,11 @@
         "official_rentai3": 57.1,
         "official_avg_st": 0.19,
         "official_st_rank": 3.4,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 47.6,
-        "effective_rentai3": 57.1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 42.3,
+        "effective_rentai3": 61.9,
         "tactical_type": "3C自在まくり差し・外マイ連対型"
       },
       "4": {
@@ -1252,11 +1251,11 @@
         "official_rentai3": 20.0,
         "official_avg_st": 0.19,
         "official_st_rank": 3.9,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 17.8,
-        "effective_rentai3": 17.8,
+        "effective_rentai2": 16.0,
+        "effective_rentai3": 16.0,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
@@ -1282,16 +1281,15 @@
     "season_summary": {},
     "best_courses": [
       "2コース(実効3連対64%・2C鋭角差し・直まくり逆転巧者)",
-      "4コース(実効3連対58%・4カド一撃まくり・まくり差し強襲型)",
       "5コース(実効3連対64%・5Cまくり差し一撃・外強襲巧者)",
       "6コース(実効3連対32%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 25.0,
-      "accumulated_rentai3": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 60.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -1345,11 +1343,11 @@
         "official_rentai3": 57.9,
         "official_avg_st": 0.19,
         "official_st_rank": 3.2,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 36.8,
-        "effective_rentai3": 57.9,
+        "effective_rentai2": 32.7,
+        "effective_rentai3": 51.5,
         "tactical_type": "4カド一撃まくり・まくり差し強襲型"
       },
       "5": {
@@ -1395,14 +1393,14 @@
       "4コース(実効3連対27%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 25.0,
-      "accumulated_rentai3": 50.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 60.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
-      "upset_maker_count": 1,
+      "upset_maker_count": 2,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -1439,11 +1437,11 @@
         "official_rentai3": 42.9,
         "official_avg_st": 0.16,
         "official_st_rank": 2.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 28.6,
-        "effective_rentai3": 42.9,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 36.5,
+        "effective_rentai3": 49.2,
         "tactical_type": "3C標準センター攻め型"
       },
       "4": {
@@ -1496,15 +1494,15 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対64%)",
-      "4コース(実効3連対23%)"
+      "4コース(実効3連対20%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
-      "accumulated_win_rate": 40.0,
-      "accumulated_rentai2": 60.0,
-      "accumulated_rentai3": 60.0,
+      "accumulated_ladies_runs": 7,
+      "accumulated_win_rate": 28.6,
+      "accumulated_rentai2": 42.9,
+      "accumulated_rentai3": 42.9,
       "ex_outperform_count": 0,
-      "ex_betrayal_count": 0,
+      "ex_betrayal_count": 1,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
       "st_f_tendency": "標準アジャスト型",
@@ -1543,11 +1541,11 @@
         "official_rentai3": 50.0,
         "official_avg_st": 0.12,
         "official_st_rank": 2.3,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 35.8,
-        "effective_rentai3": 55.6,
+        "effective_rentai2": 32.2,
+        "effective_rentai3": 50.0,
         "tactical_type": "3C標準センター攻め型"
       },
       "4": {
@@ -1556,11 +1554,11 @@
         "official_rentai3": 23.1,
         "official_avg_st": 0.15,
         "official_st_rank": 2.4,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 23.1,
-        "effective_rentai3": 23.1,
+        "effective_rentai2": 20.5,
+        "effective_rentai3": 20.5,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -1597,15 +1595,19 @@
     "style_label": "実戦データ自動解析レーサー",
     "scouting_desc": "",
     "season_summary": {},
-    "best_courses": [
-      "1コース(実効3連対100%・)"
+    "best_courses": [],
+    "weak_courses": [
+      "1コース(実効3連対44%)",
+      "2コース(実効3連対6%)",
+      "3コース(実効3連対21%)",
+      "4コース(実効3連対7%)",
+      "5コース(実効3連対6%)"
     ],
-    "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 25.0,
+      "accumulated_rentai3": 20.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -1615,82 +1617,82 @@
     },
     "courses": {
       "1": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
-        "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
+        "official_win_rate": 9.1,
+        "official_rentai2": 18.2,
+        "official_rentai3": 36.4,
+        "official_avg_st": 0.22,
+        "official_st_rank": 3.9,
         "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 100.0,
-        "tactical_type": ""
+        "effective_rentai2": 16.2,
+        "effective_rentai3": 43.5,
+        "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
-        "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
+        "official_win_rate": 6.7,
+        "official_rentai2": 6.7,
+        "official_rentai3": 6.7,
+        "official_avg_st": 0.2,
+        "official_st_rank": 3.3,
         "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
-        "tactical_type": ""
+        "effective_rentai2": 6.0,
+        "effective_rentai3": 6.0,
+        "tactical_type": "2C苦戦傾向(差し遅れ注意)"
       },
       "3": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
+        "official_win_rate": 5.9,
+        "official_rentai2": 17.7,
+        "official_rentai3": 23.5,
         "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
+        "official_st_rank": 3.1,
         "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
-        "tactical_type": ""
+        "effective_rentai2": 15.7,
+        "effective_rentai3": 20.9,
+        "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
       },
       "4": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
+        "official_win_rate": 7.1,
+        "official_rentai2": 7.1,
+        "official_rentai3": 7.1,
         "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
+        "official_st_rank": 3.1,
         "ladies_actual_runs": 0,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
-        "tactical_type": ""
+        "effective_rentai2": 7.1,
+        "effective_rentai3": 7.1,
+        "tactical_type": "4C展開待ち傾向"
       },
       "5": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
-        "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
-        "tactical_type": ""
-      },
-      "6": {
-        "official_win_rate": 0.0,
-        "official_rentai2": 0.0,
-        "official_rentai3": 0.0,
-        "official_avg_st": 0.17,
-        "official_st_rank": 3.5,
+        "official_win_rate": 7.1,
+        "official_rentai2": 7.1,
+        "official_rentai3": 7.1,
+        "official_avg_st": 0.14,
+        "official_st_rank": 3.3,
         "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
-        "tactical_type": ""
+        "effective_rentai2": 6.3,
+        "effective_rentai3": 6.3,
+        "tactical_type": "5C展開連動待ち型"
+      },
+      "6": {
+        "official_win_rate": 13.3,
+        "official_rentai2": 13.3,
+        "official_rentai3": 13.3,
+        "official_avg_st": 0.19,
+        "official_st_rank": 4.0,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 0,
+        "ladies_actual_rentai3_count": 0,
+        "effective_rentai2": 11.8,
+        "effective_rentai3": 11.8,
+        "tactical_type": "6C大外展開待ち型"
       }
     }
   },
@@ -1703,18 +1705,16 @@
     "best_courses": [
       "3コース(実効3連対62%・3C標準センター攻め型)"
     ],
-    "weak_courses": [
-      "4コース(実効3連対29%)"
-    ],
+    "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 25.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 16.7,
+      "accumulated_rentai2": 33.3,
       "accumulated_rentai3": 50.0,
-      "ex_outperform_count": 0,
-      "ex_betrayal_count": 0,
+      "ex_outperform_count": 1,
+      "ex_betrayal_count": 1,
       "in_survive_rate_when_beaten": 100.0,
-      "upset_maker_count": 0,
+      "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -1764,11 +1764,11 @@
         "official_rentai3": 28.6,
         "official_avg_st": 0.2,
         "official_st_rank": 4.7,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 28.6,
-        "effective_rentai3": 28.6,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 36.5,
+        "effective_rentai3": 36.5,
         "tactical_type": "4カド一撃まくり・まくり差し強襲型"
       },
       "5": {
@@ -1790,11 +1790,11 @@
         "official_rentai3": 16.7,
         "official_avg_st": 0.16,
         "official_st_rank": 3.8,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 16.7,
-        "effective_rentai3": 16.7,
+        "effective_rentai2": 14.8,
+        "effective_rentai3": 14.8,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -1812,13 +1812,13 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 50.0,
-      "accumulated_rentai3": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 60.0,
+      "accumulated_rentai3": 80.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 100.0,
       "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -1830,11 +1830,11 @@
         "official_rentai3": 81.2,
         "official_avg_st": 0.2,
         "official_st_rank": 4.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 68.7,
-        "effective_rentai3": 81.2,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 72.2,
+        "effective_rentai3": 83.3,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -1912,16 +1912,16 @@
     "season_summary": {},
     "best_courses": [
       "2コース(実効3連対62%・2C堅実差し追従・連下軸型)",
-      "6コース(実効3連対36%・6C最内差し・道中鬼捌き3連対巧者)"
+      "6コース(実効3連対32%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [
       "1コース(実効3連対66%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
-      "accumulated_win_rate": 40.0,
-      "accumulated_rentai2": 40.0,
-      "accumulated_rentai3": 40.0,
+      "accumulated_ladies_runs": 7,
+      "accumulated_win_rate": 28.6,
+      "accumulated_rentai2": 28.6,
+      "accumulated_rentai3": 28.6,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -1975,11 +1975,11 @@
         "official_rentai3": 47.1,
         "official_avg_st": 0.17,
         "official_st_rank": 2.8,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 20.9,
-        "effective_rentai3": 41.9,
+        "effective_rentai2": 18.8,
+        "effective_rentai3": 37.7,
         "tactical_type": "4カド一撃まくり・まくり差し強襲型"
       },
       "5": {
@@ -2001,11 +2001,11 @@
         "official_rentai3": 35.7,
         "official_avg_st": 0.17,
         "official_st_rank": 3.4,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 35.7,
-        "effective_rentai3": 35.7,
+        "effective_rentai2": 31.7,
+        "effective_rentai3": 31.7,
         "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
       }
     }
@@ -2020,15 +2020,14 @@
     "weak_courses": [
       "1コース(実効3連対64%)",
       "3コース(実効3連対25%)",
-      "4コース(実効3連対33%)",
-      "5コース(実効3連対19%)",
+      "5コース(実効3連対17%)",
       "6コース(実効3連対8%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 25.0,
-      "accumulated_rentai3": 25.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 33.3,
+      "accumulated_rentai2": 33.3,
+      "accumulated_rentai3": 33.3,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -2082,11 +2081,11 @@
         "official_rentai3": 33.3,
         "official_avg_st": 0.19,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 26.7,
-        "effective_rentai3": 33.3,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 34.8,
+        "effective_rentai3": 40.7,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -2095,11 +2094,11 @@
         "official_rentai3": 18.8,
         "official_avg_st": 0.19,
         "official_st_rank": 3.6,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 18.7,
-        "effective_rentai3": 18.8,
+        "effective_rentai2": 16.6,
+        "effective_rentai3": 16.7,
         "tactical_type": "5C展開連動待ち型"
       },
       "6": {
@@ -2126,20 +2125,20 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対56%)",
-      "2コース(実効3連対0%)",
+      "2コース(実効3連対11%)",
       "3コース(実効3連対0%)",
       "4コース(実効3連対13%)",
       "5コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 25.0,
-      "ex_outperform_count": 0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 16.7,
+      "accumulated_rentai2": 16.7,
+      "accumulated_rentai3": 33.3,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
-      "upset_maker_count": 0,
+      "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -2163,11 +2162,11 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.24,
         "official_st_rank": 4.8,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 11.1,
+        "effective_rentai3": 11.1,
         "tactical_type": "2C苦戦傾向(差し遅れ注意)"
       },
       "3": {
@@ -2215,11 +2214,11 @@
         "official_rentai3": 14.3,
         "official_avg_st": 0.26,
         "official_st_rank": 5.3,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 14.3,
-        "effective_rentai3": 14.3,
+        "effective_rentai2": 12.7,
+        "effective_rentai3": 12.7,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -2240,13 +2239,13 @@
       "6コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
       "accumulated_rentai3": 0.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 0.0,
       "upset_maker_count": 0,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -2258,7 +2257,7 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.23,
         "official_st_rank": 5.0,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
         "effective_rentai2": 0.0,
@@ -2344,13 +2343,14 @@
       "2コース(実効3連対11%)",
       "3コース(実効3連対18%)",
       "4コース(実効3連対18%)",
-      "5コース(実効3連対9%)"
+      "5コース(実効3連対9%)",
+      "6コース(実効3連対10%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 25.0,
+      "accumulated_rentai3": 20.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 0.0,
@@ -2430,11 +2430,11 @@
         "official_rentai3": 10.7,
         "official_avg_st": 0.22,
         "official_st_rank": 4.6,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 10.7,
-        "effective_rentai3": 10.7,
+        "effective_rentai2": 9.5,
+        "effective_rentai3": 9.5,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -2448,17 +2448,17 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対52%)",
-      "2コース(実効3連対36%)",
-      "3コース(実効3連対24%)",
+      "2コース(実効3連対32%)",
+      "3コース(実効3連対32%)",
       "4コース(実効3連対16%)",
       "5コース(実効3連対19%)",
       "6コース(実効3連対6%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 33.3,
-      "accumulated_rentai3": 66.7,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 60.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -2486,11 +2486,11 @@
         "official_rentai3": 35.7,
         "official_avg_st": 0.18,
         "official_st_rank": 3.7,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 35.7,
-        "effective_rentai3": 35.7,
+        "effective_rentai2": 31.7,
+        "effective_rentai3": 31.7,
         "tactical_type": "2C苦戦傾向(差し遅れ注意)"
       },
       "3": {
@@ -2499,11 +2499,11 @@
         "official_rentai3": 23.8,
         "official_avg_st": 0.17,
         "official_st_rank": 3.7,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 23.8,
-        "effective_rentai3": 23.8,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 21.2,
+        "effective_rentai3": 32.3,
         "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
       },
       "4": {
@@ -2554,8 +2554,8 @@
     "scouting_desc": "",
     "season_summary": {},
     "best_courses": [
-      "1コース(実効3連対88%・イン高信頼押し切り型)",
-      "2コース(実効3連対91%・2C鋭角差し・直まくり逆転巧者)",
+      "1コース(実効3連対89%・イン高信頼押し切り型)",
+      "2コース(実効3連対92%・2C鋭角差し・直まくり逆転巧者)",
       "3コース(実効3連対72%・3Cスリット強襲・ツケマイまくり型)",
       "4コース(実効3連対79%・4カド一撃まくり・まくり差し強襲型)",
       "5コース(実効3連対53%・5Cまくり差し一撃・外強襲巧者)",
@@ -2563,13 +2563,13 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 75.0,
+      "accumulated_rentai2": 83.3,
       "accumulated_rentai3": 100.0,
-      "ex_outperform_count": 0,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
-      "in_survive_rate_when_beaten": null,
+      "in_survive_rate_when_beaten": 100.0,
       "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
@@ -2581,11 +2581,11 @@
         "official_rentai3": 88.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.2,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 80.0,
-        "effective_rentai3": 88.0,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 82.2,
+        "effective_rentai3": 89.3,
         "tactical_type": "イン高信頼押し切り型"
       },
       "2": {
@@ -2594,11 +2594,11 @@
         "official_rentai3": 90.0,
         "official_avg_st": 0.14,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 48.9,
-        "effective_rentai3": 91.1,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 54.0,
+        "effective_rentai3": 92.0,
         "tactical_type": "2C鋭角差し・直まくり逆転巧者"
       },
       "3": {
@@ -2661,19 +2661,17 @@
     "style_label": "実戦データ自動解析レーサー",
     "scouting_desc": "",
     "season_summary": {},
-    "best_courses": [
-      "6コース(実効3連対30%・6C最内差し・道中鬼捌き3連対巧者)"
-    ],
+    "best_courses": [],
     "weak_courses": [
       "2コース(実効3連対36%)",
-      "3コース(実効3連対13%)",
+      "3コース(実効3連対12%)",
       "4コース(実効3連対17%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 66.7,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -2714,11 +2712,11 @@
         "official_rentai3": 13.3,
         "official_avg_st": 0.14,
         "official_st_rank": 2.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 13.4,
-        "effective_rentai3": 13.3,
+        "effective_rentai2": 11.9,
+        "effective_rentai3": 11.8,
         "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
       },
       "4": {
@@ -2753,11 +2751,11 @@
         "official_rentai3": 30.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.3,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 30.0,
-        "effective_rentai3": 30.0,
+        "effective_rentai2": 26.7,
+        "effective_rentai3": 26.7,
         "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
       }
     }
@@ -2777,14 +2775,14 @@
       "6コース(実効3連対6%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 0.0,
-      "ex_outperform_count": 0,
+      "accumulated_rentai2": 16.7,
+      "accumulated_rentai3": 16.7,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 0.0,
-      "upset_maker_count": 0,
+      "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -2821,11 +2819,11 @@
         "official_rentai3": 41.7,
         "official_avg_st": 0.19,
         "official_st_rank": 3.3,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 16.7,
-        "effective_rentai3": 41.7,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 26.0,
+        "effective_rentai3": 48.2,
         "tactical_type": "3C標準センター攻め型"
       },
       "4": {
@@ -2860,11 +2858,11 @@
         "official_rentai3": 6.2,
         "official_avg_st": 0.22,
         "official_st_rank": 3.7,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 6.2,
-        "effective_rentai3": 6.2,
+        "effective_rentai2": 5.5,
+        "effective_rentai3": 5.5,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -2878,14 +2876,15 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対49%)",
+      "2コース(実効3連対42%)",
       "4コース(実効3連対5%)",
       "6コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 33.3,
-      "accumulated_rentai2": 66.7,
-      "accumulated_rentai3": 66.7,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -2913,11 +2912,11 @@
         "official_rentai3": 47.1,
         "official_avg_st": 0.21,
         "official_st_rank": 4.0,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 29.4,
-        "effective_rentai3": 47.1,
+        "effective_rentai2": 26.1,
+        "effective_rentai3": 41.9,
         "tactical_type": "2C標準差し型"
       },
       "3": {
@@ -2952,11 +2951,11 @@
         "official_rentai3": 23.5,
         "official_avg_st": 0.2,
         "official_st_rank": 3.3,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 23.5,
-        "effective_rentai3": 23.5,
+        "effective_rentai2": 20.9,
+        "effective_rentai3": 20.9,
         "tactical_type": "5C展開連動待ち型"
       },
       "6": {
@@ -2987,12 +2986,12 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 75.0,
-      "accumulated_rentai3": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 60.0,
+      "accumulated_rentai3": 60.0,
       "ex_outperform_count": 0,
-      "ex_betrayal_count": 0,
+      "ex_betrayal_count": 1,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
       "st_f_tendency": "標準アジャスト型",
@@ -3057,11 +3056,11 @@
         "official_rentai3": 25.9,
         "official_avg_st": 0.17,
         "official_st_rank": 3.4,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 25.9,
-        "effective_rentai3": 25.9,
+        "effective_rentai2": 23.0,
+        "effective_rentai3": 23.0,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
@@ -3089,12 +3088,12 @@
     "weak_courses": [
       "1コース(実効3連対51%)",
       "2コース(実効3連対36%)",
-      "3コース(実効3連対33%)",
+      "3コース(実効3連対30%)",
       "5コース(実効3連対8%)",
       "6コース(実効3連対5%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
+      "accumulated_ladies_runs": 5,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
       "accumulated_rentai3": 0.0,
@@ -3138,11 +3137,11 @@
         "official_rentai3": 33.3,
         "official_avg_st": 0.19,
         "official_st_rank": 4.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 33.3,
-        "effective_rentai3": 33.3,
+        "effective_rentai2": 29.6,
+        "effective_rentai3": 29.6,
         "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
       },
       "4": {
@@ -3193,18 +3192,18 @@
     "scouting_desc": "",
     "season_summary": {},
     "best_courses": [
-      "6コース(実効3連対50%・6C最内差し・道中鬼捌き3連対巧者)"
+      "6コース(実効3連対56%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 50.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 33.3,
+      "accumulated_rentai2": 66.7,
       "accumulated_rentai3": 100.0,
-      "ex_outperform_count": 0,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
-      "upset_maker_count": 1,
+      "upset_maker_count": 2,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -3215,11 +3214,11 @@
         "official_rentai3": 77.8,
         "official_avg_st": 0.2,
         "official_st_rank": 3.4,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 44.4,
-        "effective_rentai3": 77.8,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 50.6,
+        "effective_rentai3": 80.3,
         "tactical_type": "イン波乱含み(被差し・被まくり警戒)"
       },
       "2": {
@@ -3280,11 +3279,11 @@
         "official_rentai3": 50.0,
         "official_avg_st": 0.1,
         "official_st_rank": 2.0,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 25.0,
-        "effective_rentai3": 50.0,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 33.3,
+        "effective_rentai3": 55.6,
         "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
       }
     }
@@ -3298,17 +3297,16 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対41%)",
-      "2コース(実効3連対11%)",
+      "2コース(実効3連対21%)",
       "3コース(実効3連対22%)",
       "4コース(実効3連対11%)",
-      "5コース(実効3連対0%)",
-      "6コース(実効3連対0%)"
+      "5コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 33.3,
-      "accumulated_rentai2": 33.3,
-      "accumulated_rentai3": 33.3,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 20.0,
+      "accumulated_rentai3": 60.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -3336,11 +3334,11 @@
         "official_rentai3": 11.1,
         "official_avg_st": 0.26,
         "official_st_rank": 4.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 11.1,
-        "effective_rentai3": 11.1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 9.9,
+        "effective_rentai3": 21.0,
         "tactical_type": "2C苦戦傾向(差し遅れ注意)"
       },
       "3": {
@@ -3388,11 +3386,11 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.19,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
+        "ladies_actual_rentai3_count": 1,
         "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
+        "effective_rentai3": 11.1,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -3408,14 +3406,13 @@
     ],
     "weak_courses": [
       "2コース(実効3連対32%)",
-      "4コース(実効3連対33%)",
-      "6コース(実効3連対8%)"
+      "4コース(実効3連対33%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
-      "accumulated_win_rate": 20.0,
-      "accumulated_rentai2": 40.0,
-      "accumulated_rentai3": 60.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 16.7,
+      "accumulated_rentai2": 33.3,
+      "accumulated_rentai3": 66.7,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -3495,11 +3492,11 @@
         "official_rentai3": 7.7,
         "official_avg_st": 0.22,
         "official_st_rank": 4.2,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 7.7,
-        "effective_rentai3": 7.7,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 6.8,
+        "effective_rentai3": 18.0,
         "tactical_type": "6C大外展開待ち型"
       }
     }
@@ -3512,17 +3509,17 @@
     "season_summary": {},
     "best_courses": [
       "1コース(実効3連対94%・イン高信頼押し切り型)",
-      "2コース(実効3連対71%・2C堅実差し追従・連下軸型)",
+      "2コース(実効3連対75%・2C堅実差し追従・連下軸型)",
       "5コース(実効3連対53%・5C連動差し・3連対巧者)"
     ],
     "weak_courses": [
       "4コース(実効3連対27%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 20.0,
-      "accumulated_rentai3": 60.0,
+      "accumulated_rentai2": 16.7,
+      "accumulated_rentai3": 66.7,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -3550,11 +3547,11 @@
         "official_rentai3": 71.4,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 28.6,
-        "effective_rentai3": 71.4,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 25.4,
+        "effective_rentai3": 74.6,
         "tactical_type": "2C堅実差し追従・連下軸型"
       },
       "3": {
@@ -3625,11 +3622,11 @@
       "1コース(実効3連対67%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 0.0,
-      "accumulated_rentai3": 20.0,
-      "ex_outperform_count": 0,
+      "accumulated_rentai2": 16.7,
+      "accumulated_rentai3": 33.3,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 0.0,
       "upset_maker_count": 0,
@@ -3682,11 +3679,11 @@
         "official_rentai3": 38.5,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 38.5,
-        "effective_rentai3": 38.5,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 45.3,
+        "effective_rentai3": 45.3,
         "tactical_type": "4C標準カド戦型"
       },
       "5": {
@@ -3725,7 +3722,7 @@
     "season_summary": {},
     "best_courses": [
       "1コース(実効3連対94%・鉄壁イン速攻逃げ型)",
-      "2コース(実効3連対83%・2C鋭角差し・直まくり逆転巧者)",
+      "2コース(実効3連対85%・2C鋭角差し・直まくり逆転巧者)",
       "3コース(実効3連対84%・3Cスリット強襲・ツケマイまくり型)",
       "4コース(実効3連対60%・4C二番差し・道中捌き連対巧者)",
       "5コース(実効3連対54%・5Cまくり差し一撃・外強襲巧者)",
@@ -3733,11 +3730,11 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 75.0,
-      "accumulated_rentai2": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 80.0,
+      "accumulated_rentai2": 80.0,
       "accumulated_rentai3": 100.0,
-      "ex_outperform_count": 0,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
@@ -3764,11 +3761,11 @@
         "official_rentai3": 81.0,
         "official_avg_st": 0.13,
         "official_st_rank": 2.8,
-        "ladies_actual_runs": 1,
-        "ladies_actual_1st": 1,
-        "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 70.4,
-        "effective_rentai3": 83.1,
+        "ladies_actual_runs": 2,
+        "ladies_actual_1st": 2,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 73.4,
+        "effective_rentai3": 84.8,
         "tactical_type": "2C鋭角差し・直まくり逆転巧者"
       },
       "3": {
@@ -3838,9 +3835,9 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 50.0,
-      "accumulated_rentai2": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 60.0,
+      "accumulated_rentai2": 80.0,
       "accumulated_rentai3": 100.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
@@ -3856,11 +3853,11 @@
         "official_rentai3": 72.7,
         "official_avg_st": 0.2,
         "official_st_rank": 4.3,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 63.6,
-        "effective_rentai3": 72.7,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 67.6,
+        "effective_rentai3": 75.7,
         "tactical_type": "イン標準先マイ型"
       },
       "2": {
@@ -3943,10 +3940,10 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 50.0,
-      "accumulated_rentai3": 50.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 40.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -4000,11 +3997,11 @@
         "official_rentai3": 42.9,
         "official_avg_st": 0.16,
         "official_st_rank": 2.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 21.4,
-        "effective_rentai3": 42.9,
+        "effective_rentai2": 19.0,
+        "effective_rentai3": 38.1,
         "tactical_type": "4カド一撃まくり・まくり差し強襲型"
       },
       "5": {
@@ -4042,18 +4039,18 @@
     "scouting_desc": "",
     "season_summary": {},
     "best_courses": [
-      "1コース(実効3連対95%・イン高信頼押し切り型)",
-      "2コース(実効3連対64%・2C標準差し型)",
+      "1コース(実効3連対96%・イン高信頼押し切り型)",
+      "2コース(実効3連対68%・2C標準差し型)",
       "3コース(実効3連対63%・3Cスリット強襲・ツケマイまくり型)",
       "5コース(実効3連対42%・5Cまくり差し一撃・外強襲巧者)",
       "6コース(実効3連対47%・6Cヒモ穴3着浮上型)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 33.3,
-      "accumulated_rentai3": 66.7,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 33.3,
+      "accumulated_rentai2": 50.0,
+      "accumulated_rentai3": 83.3,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
@@ -4068,11 +4065,11 @@
         "official_rentai3": 95.2,
         "official_avg_st": 0.13,
         "official_st_rank": 2.4,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 90.4,
-        "effective_rentai3": 95.2,
+        "ladies_actual_runs": 2,
+        "ladies_actual_1st": 2,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 92.3,
+        "effective_rentai3": 96.2,
         "tactical_type": "イン高信頼押し切り型"
       },
       "2": {
@@ -4081,11 +4078,11 @@
         "official_rentai3": 60.0,
         "official_avg_st": 0.14,
         "official_st_rank": 3.6,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 46.7,
-        "effective_rentai3": 64.4,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 42.0,
+        "effective_rentai3": 68.0,
         "tactical_type": "2C標準差し型"
       },
       "3": {
@@ -4154,10 +4151,10 @@
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
-      "accumulated_rentai2": 40.0,
-      "accumulated_rentai3": 60.0,
+      "accumulated_rentai2": 33.3,
+      "accumulated_rentai3": 50.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
@@ -4224,11 +4221,11 @@
         "official_rentai3": 36.4,
         "official_avg_st": 0.19,
         "official_st_rank": 4.5,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 32.4,
-        "effective_rentai3": 32.4,
+        "effective_rentai2": 29.1,
+        "effective_rentai3": 29.1,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
@@ -4254,15 +4251,15 @@
     "season_summary": {},
     "best_courses": [],
     "weak_courses": [
-      "4コース(実効3連対18%)"
+      "4コース(実効3連対16%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
+      "accumulated_ladies_runs": 6,
       "accumulated_win_rate": 0.0,
       "accumulated_rentai2": 0.0,
       "accumulated_rentai3": 0.0,
       "ex_outperform_count": 0,
-      "ex_betrayal_count": 0,
+      "ex_betrayal_count": 1,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
       "st_f_tendency": "標準アジャスト型",
@@ -4314,11 +4311,11 @@
         "official_rentai3": 20.0,
         "official_avg_st": 0.14,
         "official_st_rank": 2.7,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 13.3,
-        "effective_rentai3": 17.8,
+        "effective_rentai2": 12.0,
+        "effective_rentai3": 16.0,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -4357,15 +4354,15 @@
     "season_summary": {},
     "best_courses": [],
     "weak_courses": [
-      "3コース(実効3連対32%)"
+      "3コース(実効3連対28%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 50.0,
-      "accumulated_rentai2": 75.0,
-      "accumulated_rentai3": 100.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 40.0,
+      "accumulated_rentai2": 60.0,
+      "accumulated_rentai3": 80.0,
       "ex_outperform_count": 0,
-      "ex_betrayal_count": 0,
+      "ex_betrayal_count": 1,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 2,
       "st_f_tendency": "標準アジャスト型",
@@ -4404,11 +4401,11 @@
         "official_rentai3": 31.8,
         "official_avg_st": 0.15,
         "official_st_rank": 2.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 31.8,
-        "effective_rentai3": 31.8,
+        "effective_rentai2": 28.3,
+        "effective_rentai3": 28.3,
         "tactical_type": "3Cスリット強襲・ツケマイまくり型"
       },
       "4": {
@@ -4460,13 +4457,13 @@
     "season_summary": {},
     "best_courses": [
       "3コース(実効3連対63%・3C自在まくり差し・外マイ連対型)",
-      "5コース(実効3連対55%・5Cまくり差し一撃・外強襲巧者)"
+      "5コース(実効3連対60%・5Cまくり差し一撃・外強襲巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 50.0,
-      "accumulated_rentai2": 75.0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 60.0,
+      "accumulated_rentai2": 80.0,
       "accumulated_rentai3": 100.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
@@ -4534,11 +4531,11 @@
         "official_rentai3": 55.0,
         "official_avg_st": 0.15,
         "official_st_rank": 2.4,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 30.0,
-        "effective_rentai3": 55.0,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 37.8,
+        "effective_rentai3": 60.0,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
@@ -4567,17 +4564,17 @@
       "1コース(実効3連対56%)",
       "2コース(実効3連対11%)",
       "3コース(実効3連対18%)",
-      "4コース(実効3連対22%)"
+      "4コース(実効3連対31%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 25.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 33.3,
+      "accumulated_rentai2": 33.3,
       "accumulated_rentai3": 50.0,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
-      "upset_maker_count": 0,
+      "upset_maker_count": 1,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -4627,11 +4624,11 @@
         "official_rentai3": 22.2,
         "official_avg_st": 0.23,
         "official_st_rank": 4.8,
-        "ladies_actual_runs": 0,
-        "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 22.2,
-        "effective_rentai3": 22.2,
+        "ladies_actual_runs": 1,
+        "ladies_actual_1st": 1,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 30.8,
+        "effective_rentai3": 30.8,
         "tactical_type": "4C展開待ち傾向"
       },
       "5": {
@@ -4653,11 +4650,11 @@
         "official_rentai3": 20.0,
         "official_avg_st": 0.18,
         "official_st_rank": 3.8,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 20.0,
-        "effective_rentai3": 20.0,
+        "effective_rentai2": 17.8,
+        "effective_rentai3": 17.8,
         "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
       }
     }
@@ -4671,18 +4668,18 @@
     "best_courses": [],
     "weak_courses": [
       "1コース(実効3連対11%)",
-      "2コース(実効3連対0%)",
-      "3コース(実効3連対0%)",
+      "2コース(実効3連対11%)",
+      "3コース(実効3連対11%)",
       "4コース(実効3連対11%)",
       "5コース(実効3連対0%)",
       "6コース(実効3連対0%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 3,
-      "accumulated_win_rate": 33.3,
-      "accumulated_rentai2": 33.3,
-      "accumulated_rentai3": 66.7,
-      "ex_outperform_count": 0,
+      "accumulated_ladies_runs": 5,
+      "accumulated_win_rate": 20.0,
+      "accumulated_rentai2": 40.0,
+      "accumulated_rentai3": 80.0,
+      "ex_outperform_count": 1,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": null,
       "upset_maker_count": 0,
@@ -4709,11 +4706,11 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
+        "ladies_actual_rentai3_count": 1,
         "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
+        "effective_rentai3": 11.1,
         "tactical_type": "2C苦戦傾向(差し遅れ注意)"
       },
       "3": {
@@ -4722,11 +4719,11 @@
         "official_rentai3": 0.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.5,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 0.0,
-        "effective_rentai3": 0.0,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 11.1,
+        "effective_rentai3": 11.1,
         "tactical_type": "3C谷間傾向(握りマイ空振り注意)"
       },
       "4": {
@@ -4778,21 +4775,22 @@
     "season_summary": {},
     "best_courses": [
       "1コース(実効3連対93%・イン高信頼押し切り型)",
-      "2コース(実効3連対76%・2C堅実差し追従・連下軸型)",
+      "2コース(実効3連対68%・2C堅実差し追従・連下軸型)",
       "3コース(実効3連対68%・3C自在まくり差し・外マイ連対型)",
+      "4コース(実効3連対57%・4C標準カド戦型)",
       "5コース(実効3連対53%・5C連動差し・3連対巧者)",
-      "6コース(実効3連対50%・6C最内差し・道中鬼捌き3連対巧者)"
+      "6コース(実効3連対56%・6C最内差し・道中鬼捌き3連対巧者)"
     ],
     "weak_courses": [],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 4,
-      "accumulated_win_rate": 25.0,
-      "accumulated_rentai2": 100.0,
-      "accumulated_rentai3": 100.0,
+      "accumulated_ladies_runs": 7,
+      "accumulated_win_rate": 14.3,
+      "accumulated_rentai2": 71.4,
+      "accumulated_rentai3": 85.7,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 100.0,
-      "upset_maker_count": 1,
+      "upset_maker_count": 2,
       "st_f_tendency": "標準アジャスト型",
       "st_f_avg_adjust": 0.0
     },
@@ -4816,11 +4814,11 @@
         "official_rentai3": 76.2,
         "official_avg_st": 0.18,
         "official_st_rank": 3.7,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 38.1,
-        "effective_rentai3": 76.2,
+        "effective_rentai2": 33.9,
+        "effective_rentai3": 67.7,
         "tactical_type": "2C堅実差し追従・連下軸型"
       },
       "3": {
@@ -4842,11 +4840,11 @@
         "official_rentai3": 46.2,
         "official_avg_st": 0.2,
         "official_st_rank": 4.0,
-        "ladies_actual_runs": 1,
+        "ladies_actual_runs": 2,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 1,
-        "effective_rentai2": 52.2,
-        "effective_rentai3": 52.2,
+        "ladies_actual_rentai3_count": 2,
+        "effective_rentai2": 57.0,
+        "effective_rentai3": 57.0,
         "tactical_type": "4C標準カド戦型"
       },
       "5": {
@@ -4868,11 +4866,11 @@
         "official_rentai3": 50.0,
         "official_avg_st": 0.17,
         "official_st_rank": 3.1,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
-        "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 50.0,
-        "effective_rentai3": 50.0,
+        "ladies_actual_rentai3_count": 1,
+        "effective_rentai2": 44.4,
+        "effective_rentai3": 55.6,
         "tactical_type": "6C最内差し・道中鬼捌き3連対巧者"
       }
     }
@@ -4891,10 +4889,10 @@
       "1コース(実効3連対57%)"
     ],
     "proprietary_metrics": {
-      "accumulated_ladies_runs": 5,
-      "accumulated_win_rate": 20.0,
-      "accumulated_rentai2": 40.0,
-      "accumulated_rentai3": 40.0,
+      "accumulated_ladies_runs": 6,
+      "accumulated_win_rate": 16.7,
+      "accumulated_rentai2": 33.3,
+      "accumulated_rentai3": 33.3,
       "ex_outperform_count": 0,
       "ex_betrayal_count": 0,
       "in_survive_rate_when_beaten": 0.0,
@@ -4961,11 +4959,11 @@
         "official_rentai3": 30.8,
         "official_avg_st": 0.19,
         "official_st_rank": 3.9,
-        "ladies_actual_runs": 0,
+        "ladies_actual_runs": 1,
         "ladies_actual_1st": 0,
         "ladies_actual_rentai3_count": 0,
-        "effective_rentai2": 30.8,
-        "effective_rentai3": 30.8,
+        "effective_rentai2": 27.4,
+        "effective_rentai3": 27.4,
         "tactical_type": "5Cまくり差し一撃・外強襲巧者"
       },
       "6": {
