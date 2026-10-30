@@ -1,50 +1,50 @@
 {
-  "total_learned_races": 55,
+  "total_learned_races": 67,
   "stadium_stats": {
     "桐生": {
-      "total_races": 55,
+      "total_races": 67,
       "course_1st": {
-        "1": 28,
-        "2": 8,
-        "3": 9,
-        "4": 4,
-        "5": 4,
+        "1": 33,
+        "2": 10,
+        "3": 11,
+        "4": 5,
+        "5": 6,
         "6": 2
       },
       "course_2nd": {
-        "1": 12,
-        "2": 7,
-        "3": 19,
-        "4": 10,
-        "5": 4,
-        "6": 3
+        "1": 15,
+        "2": 9,
+        "3": 20,
+        "4": 12,
+        "5": 6,
+        "6": 5
       },
       "course_3rd": {
-        "1": 6,
-        "2": 13,
-        "3": 7,
-        "4": 15,
+        "1": 9,
+        "2": 15,
+        "3": 8,
+        "4": 20,
         "5": 3,
-        "6": 11
+        "6": 12
       },
       "comb_counts": {
         "5-6-3": 1,
         "3-2-6": 1,
         "3-2-4": 1,
-        "1-3-4": 9,
+        "1-3-4": 10,
         "2-1-5": 1,
         "1-4-2": 2,
         "3-1-2": 1,
         "1-3-2": 7,
         "1-2-6": 3,
-        "4-5-1": 1,
+        "4-5-1": 2,
         "1-3-6": 2,
         "3-2-1": 1,
         "1-4-6": 1,
         "2-5-4": 1,
-        "3-4-1": 3,
+        "3-4-1": 4,
         "5-1-3": 1,
-        "1-2-4": 1,
+        "1-2-4": 2,
         "3-6-4": 1,
         "5-1-6": 1,
         "6-1-5": 2,
@@ -54,37 +54,43 @@
         "2-4-1": 1,
         "2-4-3": 2,
         "4-1-6": 1,
-        "5-1-2": 1,
+        "5-1-2": 2,
         "4-1-2": 1,
         "2-1-6": 1,
         "3-5-6": 1,
         "1-4-3": 1,
-        "2-1-4": 1,
-        "1-5-2": 1
+        "2-1-4": 2,
+        "1-5-2": 1,
+        "3-1-4": 1,
+        "2-5-6": 1,
+        "1-6-4": 1,
+        "1-6-2": 1,
+        "1-2-3": 1,
+        "5-4-1": 1
       },
-      "high_payout_count": 16,
+      "high_payout_count": 22,
       "learned_course_scores": {
-        "1": 29.67,
-        "2": 12.56,
-        "3": 17.53,
-        "4": 11.09,
-        "5": 5.75,
-        "6": 5.4
+        "1": 29.37,
+        "2": 12.76,
+        "3": 16.28,
+        "4": 11.42,
+        "5": 6.81,
+        "6": 5.36
       },
-      "in_escape_rate": 50.9,
-      "center_win_rate": 23.6
+      "in_escape_rate": 49.3,
+      "center_win_rate": 23.9
     }
   },
   "player_stats": {
     "河内悠利杏": {
       "toban": "5306",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 0,
-      "in_runs": 1,
+      "in_runs": 2,
       "in_1st": 0,
-      "in_survive": 0,
+      "in_survive": 1,
       "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 1,
@@ -95,9 +101,9 @@
       "upset_1st2nd": 1,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "2": {
@@ -190,17 +196,17 @@
     },
     "吉田彩乃": {
       "toban": "5140",
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 1,
       "3rd": 1,
       "in_runs": 0,
       "in_1st": 0,
       "in_survive": 0,
-      "center_runs": 3,
+      "center_runs": 4,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -219,7 +225,7 @@
           "3rd": 0
         },
         "3": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 1,
           "3rd": 1
@@ -237,7 +243,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 0,
+          "runs": 1,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -246,14 +252,14 @@
     },
     "田中博子": {
       "toban": "4990",
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
       "3rd": 2,
       "in_runs": 1,
       "in_1st": 1,
       "in_survive": 0,
-      "center_runs": 2,
+      "center_runs": 4,
       "center_1st": 0,
       "center_rentai": 0,
       "outer_runs": 2,
@@ -275,13 +281,13 @@
           "3rd": 1
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -302,7 +308,7 @@
     },
     "寺島美里": {
       "toban": "4891",
-      "runs": 9,
+      "runs": 10,
       "1st": 2,
       "2nd": 2,
       "3rd": 0,
@@ -312,7 +318,7 @@
       "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 3,
+      "outer_runs": 4,
       "outer_rentai3": 2,
       "ex_outperform": 0,
       "ex_betrayal": 1,
@@ -349,7 +355,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -358,7 +364,7 @@
     },
     "大久保佑香": {
       "toban": "5194",
-      "runs": 8,
+      "runs": 10,
       "1st": 0,
       "2nd": 4,
       "3rd": 2,
@@ -368,7 +374,7 @@
       "center_runs": 4,
       "center_1st": 0,
       "center_rentai": 2,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 1,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -381,7 +387,7 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -399,7 +405,7 @@
           "3rd": 1
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -414,16 +420,16 @@
     },
     "瀧川千依": {
       "toban": "4882",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 1,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 0,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 0,
-      "center_rentai": 0,
+      "center_rentai": 1,
       "outer_runs": 3,
       "outer_rentai3": 1,
       "ex_outperform": 0,
@@ -449,9 +455,9 @@
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "5": {
@@ -470,14 +476,14 @@
     },
     "間庭菜摘": {
       "toban": "4947",
-      "runs": 7,
+      "runs": 8,
       "1st": 2,
       "2nd": 3,
       "3rd": 1,
       "in_runs": 1,
       "in_1st": 1,
       "in_survive": 0,
-      "center_runs": 4,
+      "center_runs": 5,
       "center_1st": 0,
       "center_rentai": 2,
       "outer_runs": 1,
@@ -505,7 +511,7 @@
           "3rd": 0
         },
         "4": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 1,
           "3rd": 1
@@ -526,27 +532,27 @@
     },
     "関野文": {
       "toban": "4927",
-      "runs": 7,
+      "runs": 9,
       "1st": 4,
-      "2nd": 1,
-      "3rd": 2,
-      "in_runs": 1,
+      "2nd": 2,
+      "3rd": 3,
+      "in_runs": 2,
       "in_1st": 1,
-      "in_survive": 0,
+      "in_survive": 1,
       "center_runs": 3,
       "center_1st": 2,
       "center_rentai": 2,
-      "outer_runs": 1,
-      "outer_rentai3": 1,
+      "outer_runs": 2,
+      "outer_rentai3": 2,
       "ex_outperform": 0,
       "ex_betrayal": 0,
       "upset_1st2nd": 1,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "2": {
           "runs": 2,
@@ -573,30 +579,30 @@
           "3rd": 0
         },
         "6": {
-          "runs": 0,
+          "runs": 1,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         }
       }
     },
     "喜多須杏奈": {
       "toban": "4714",
-      "runs": 7,
-      "1st": 0,
+      "runs": 9,
+      "1st": 2,
       "2nd": 2,
       "3rd": 1,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 1,
-      "center_runs": 2,
-      "center_1st": 0,
-      "center_rentai": 1,
+      "center_runs": 4,
+      "center_1st": 2,
+      "center_rentai": 3,
       "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 0,
+      "upset_1st2nd": 2,
       "course_runs": {
         "1": {
           "runs": 1,
@@ -611,14 +617,14 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 1,
           "3rd": 0
         },
         "4": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 0,
           "3rd": 0
         },
@@ -638,14 +644,14 @@
     },
     "飯塚響": {
       "toban": "5184",
-      "runs": 7,
+      "runs": 9,
       "1st": 2,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 1,
-      "in_runs": 1,
+      "in_runs": 2,
       "in_1st": 1,
-      "in_survive": 0,
-      "center_runs": 2,
+      "in_survive": 1,
+      "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 1,
       "outer_runs": 3,
@@ -655,9 +661,9 @@
       "upset_1st2nd": 1,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "2": {
@@ -667,7 +673,7 @@
           "3rd": 1
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -694,14 +700,14 @@
     },
     "佐藤ほのか": {
       "toban": "5153",
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
-      "3rd": 1,
+      "3rd": 2,
       "in_runs": 1,
       "in_1st": 1,
       "in_survive": 0,
-      "center_runs": 1,
+      "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 0,
       "outer_runs": 3,
@@ -723,16 +729,16 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
         },
         "4": {
-          "runs": 0,
+          "runs": 1,
           "1st": 0,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "5": {
           "runs": 2,
@@ -750,9 +756,9 @@
     },
     "稲生夏季": {
       "toban": "4484",
-      "runs": 7,
+      "runs": 9,
       "1st": 0,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 2,
       "in_runs": 1,
       "in_1st": 0,
@@ -760,7 +766,7 @@
       "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 1,
       "ex_betrayal": 0,
@@ -773,9 +779,9 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "3": {
@@ -791,7 +797,7 @@
           "3rd": 0
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -806,25 +812,25 @@
     },
     "清埜翔子": {
       "toban": "4738",
-      "runs": 7,
-      "1st": 2,
+      "runs": 9,
+      "1st": 3,
       "2nd": 2,
       "3rd": 0,
-      "in_runs": 2,
-      "in_1st": 2,
+      "in_runs": 3,
+      "in_1st": 3,
       "in_survive": 0,
       "center_runs": 1,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 3,
+      "outer_runs": 4,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 1,
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 2,
-          "1st": 2,
+          "runs": 3,
+          "1st": 3,
           "2nd": 0,
           "3rd": 0
         },
@@ -853,7 +859,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -862,7 +868,7 @@
     },
     "黒澤めぐみ": {
       "toban": "4791",
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 1,
       "3rd": 0,
@@ -872,7 +878,7 @@
       "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 2,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -885,7 +891,7 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -903,7 +909,7 @@
           "3rd": 0
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -918,9 +924,9 @@
     },
     "犬童千秋": {
       "toban": "4349",
-      "runs": 8,
+      "runs": 10,
       "1st": 2,
-      "2nd": 3,
+      "2nd": 4,
       "3rd": 2,
       "in_runs": 1,
       "in_1st": 1,
@@ -928,11 +934,11 @@
       "center_runs": 2,
       "center_1st": 1,
       "center_rentai": 1,
-      "outer_runs": 3,
-      "outer_rentai3": 3,
+      "outer_runs": 4,
+      "outer_rentai3": 4,
       "ex_outperform": 1,
       "ex_betrayal": 0,
-      "upset_1st2nd": 2,
+      "upset_1st2nd": 3,
       "course_runs": {
         "1": {
           "runs": 1,
@@ -941,7 +947,7 @@
           "3rd": 0
         },
         "2": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 0,
           "3rd": 1
@@ -959,9 +965,9 @@
           "3rd": 1
         },
         "5": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
-          "2nd": 2,
+          "2nd": 3,
           "3rd": 0
         },
         "6": {
@@ -974,17 +980,17 @@
     },
     "前原哉": {
       "toban": "4853",
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 2,
       "3rd": 0,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 1,
-      "center_runs": 1,
+      "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -1003,7 +1009,7 @@
           "3rd": 0
         },
         "3": {
-          "runs": 0,
+          "runs": 1,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1021,7 +1027,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1030,7 +1036,7 @@
     },
     "野田部宏子": {
       "toban": "4765",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 0,
@@ -1040,7 +1046,7 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 5,
+      "outer_runs": 6,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 1,
@@ -1077,7 +1083,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 3,
+          "runs": 4,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1086,14 +1092,14 @@
     },
     "高石梨菜": {
       "toban": "4690",
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 2,
-      "3rd": 2,
+      "3rd": 3,
       "in_runs": 2,
       "in_1st": 1,
       "in_survive": 1,
-      "center_runs": 2,
+      "center_runs": 4,
       "center_1st": 0,
       "center_rentai": 1,
       "outer_runs": 2,
@@ -1115,16 +1121,16 @@
           "3rd": 1
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 1,
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
-          "3rd": 1
+          "3rd": 2
         },
         "5": {
           "runs": 1,
@@ -1142,8 +1148,8 @@
     },
     "角ひとみ": {
       "toban": "3334",
-      "runs": 8,
-      "1st": 0,
+      "runs": 10,
+      "1st": 1,
       "2nd": 3,
       "3rd": 1,
       "in_runs": 2,
@@ -1152,11 +1158,11 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 3,
+      "outer_runs": 4,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 0,
+      "upset_1st2nd": 1,
       "course_runs": {
         "1": {
           "runs": 2,
@@ -1165,8 +1171,8 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 0,
           "3rd": 0
         },
@@ -1183,7 +1189,7 @@
           "3rd": 1
         },
         "5": {
-          "runs": 3,
+          "runs": 4,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1198,21 +1204,21 @@
     },
     "川井萌": {
       "toban": "5174",
-      "runs": 7,
-      "1st": 1,
+      "runs": 9,
+      "1st": 2,
       "2nd": 1,
-      "3rd": 1,
+      "3rd": 2,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 1,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 2,
       "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 1,
       "ex_betrayal": 1,
-      "upset_1st2nd": 1,
+      "upset_1st2nd": 2,
       "course_runs": {
         "1": {
           "runs": 1,
@@ -1221,8 +1227,8 @@
           "3rd": 1
         },
         "2": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 0,
           "3rd": 0
         },
@@ -1233,10 +1239,10 @@
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "5": {
           "runs": 2,
@@ -1254,10 +1260,10 @@
     },
     "藤原早菜": {
       "toban": "5189",
-      "runs": 7,
+      "runs": 8,
       "1st": 4,
       "2nd": 1,
-      "3rd": 2,
+      "3rd": 3,
       "in_runs": 2,
       "in_1st": 2,
       "in_survive": 0,
@@ -1277,10 +1283,10 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "3": {
           "runs": 1,
@@ -1310,14 +1316,14 @@
     },
     "新田芳美": {
       "toban": "3470",
-      "runs": 8,
+      "runs": 9,
       "1st": 2,
       "2nd": 0,
-      "3rd": 1,
+      "3rd": 2,
       "in_runs": 1,
       "in_1st": 1,
       "in_survive": 0,
-      "center_runs": 4,
+      "center_runs": 5,
       "center_1st": 1,
       "center_rentai": 1,
       "outer_runs": 2,
@@ -1339,10 +1345,10 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "4": {
           "runs": 3,
@@ -1366,14 +1372,14 @@
     },
     "奥村明日香": {
       "toban": "5198",
-      "runs": 7,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
       "3rd": 3,
       "in_runs": 0,
       "in_1st": 0,
       "in_survive": 0,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 0,
       "outer_runs": 3,
@@ -1401,7 +1407,7 @@
           "3rd": 1
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 1
@@ -1422,7 +1428,7 @@
     },
     "樫葉新心": {
       "toban": "5334",
-      "runs": 6,
+      "runs": 7,
       "1st": 0,
       "2nd": 1,
       "3rd": 2,
@@ -1432,7 +1438,7 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -1463,7 +1469,7 @@
           "3rd": 1
         },
         "5": {
-          "runs": 0,
+          "runs": 1,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1478,16 +1484,16 @@
     },
     "宮崎安奈": {
       "toban": "5182",
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 1,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 0,
-      "center_runs": 2,
+      "center_runs": 4,
       "center_1st": 0,
-      "center_rentai": 1,
+      "center_rentai": 2,
       "outer_runs": 3,
       "outer_rentai3": 1,
       "ex_outperform": 0,
@@ -1507,13 +1513,13 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 1,
+          "2nd": 2,
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1534,27 +1540,27 @@
     },
     "安井瑞紀": {
       "toban": "4974",
-      "runs": 7,
-      "1st": 2,
+      "runs": 9,
+      "1st": 3,
       "2nd": 0,
-      "3rd": 2,
-      "in_runs": 1,
+      "3rd": 3,
+      "in_runs": 2,
       "in_1st": 1,
-      "in_survive": 0,
+      "in_survive": 1,
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 3,
-      "outer_rentai3": 2,
+      "outer_runs": 4,
+      "outer_rentai3": 3,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 0,
+      "upset_1st2nd": 1,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 1,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "2": {
           "runs": 1,
@@ -1575,8 +1581,8 @@
           "3rd": 0
         },
         "5": {
-          "runs": 2,
-          "1st": 0,
+          "runs": 3,
+          "1st": 1,
           "2nd": 0,
           "3rd": 1
         },
@@ -1590,10 +1596,10 @@
     },
     "中曽瑠華": {
       "toban": "5314",
-      "runs": 6,
+      "runs": 7,
       "1st": 0,
       "2nd": 0,
-      "3rd": 2,
+      "3rd": 3,
       "in_runs": 1,
       "in_1st": 0,
       "in_survive": 0,
@@ -1613,10 +1619,10 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
-          "3rd": 1
+          "3rd": 2
         },
         "3": {
           "runs": 0,
@@ -1646,25 +1652,25 @@
     },
     "神里琴音": {
       "toban": "5203",
-      "runs": 7,
-      "1st": 0,
+      "runs": 9,
+      "1st": 1,
       "2nd": 1,
       "3rd": 4,
-      "in_runs": 1,
-      "in_1st": 0,
+      "in_runs": 2,
+      "in_1st": 1,
       "in_survive": 1,
       "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 1,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 1,
       "ex_outperform": 0,
       "ex_betrayal": 0,
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 0,
           "3rd": 1
         },
@@ -1693,7 +1699,7 @@
           "3rd": 1
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1702,25 +1708,25 @@
     },
     "倉持莉々": {
       "toban": "4825",
-      "runs": 7,
-      "1st": 3,
-      "2nd": 1,
+      "runs": 9,
+      "1st": 4,
+      "2nd": 2,
       "3rd": 2,
-      "in_runs": 2,
-      "in_1st": 2,
+      "in_runs": 3,
+      "in_1st": 3,
       "in_survive": 0,
       "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 2,
-      "outer_runs": 1,
-      "outer_rentai3": 0,
+      "outer_runs": 2,
+      "outer_rentai3": 1,
       "ex_outperform": 1,
       "ex_betrayal": 0,
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 2,
-          "1st": 2,
+          "runs": 3,
+          "1st": 3,
           "2nd": 0,
           "3rd": 0
         },
@@ -1749,18 +1755,18 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         }
       }
     },
     "今井裕梨": {
       "toban": "4240",
-      "runs": 7,
+      "runs": 9,
       "1st": 2,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 0,
       "in_runs": 2,
       "in_1st": 2,
@@ -1768,7 +1774,7 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -1781,9 +1787,9 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "3": {
@@ -1799,7 +1805,7 @@
           "3rd": 0
         },
         "5": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1814,7 +1820,7 @@
     },
     "池千夏": {
       "toban": "3509",
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 3,
@@ -1824,7 +1830,7 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -1837,7 +1843,7 @@
           "3rd": 1
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 1
@@ -1855,7 +1861,7 @@
           "3rd": 1
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -1870,18 +1876,18 @@
     },
     "柴田愛梨": {
       "toban": "5108",
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 0,
-      "3rd": 1,
+      "3rd": 3,
       "in_runs": 2,
       "in_1st": 0,
       "in_survive": 1,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
-      "outer_rentai3": 0,
+      "outer_runs": 3,
+      "outer_rentai3": 1,
       "ex_outperform": 1,
       "ex_betrayal": 0,
       "upset_1st2nd": 1,
@@ -1905,10 +1911,10 @@
           "3rd": 0
         },
         "4": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         },
         "5": {
           "runs": 1,
@@ -1917,18 +1923,18 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
-          "3rd": 0
+          "3rd": 1
         }
       }
     },
     "植木美帆": {
       "toban": "5283",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 0,
       "in_runs": 1,
       "in_1st": 0,
@@ -1936,11 +1942,11 @@
       "center_runs": 2,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 2,
-      "outer_rentai3": 0,
+      "outer_runs": 3,
+      "outer_rentai3": 1,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 0,
+      "upset_1st2nd": 1,
       "course_runs": {
         "1": {
           "runs": 1,
@@ -1967,9 +1973,9 @@
           "3rd": 0
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "6": {
@@ -1982,7 +1988,7 @@
     },
     "中川海虹": {
       "toban": "5472",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 0,
@@ -1992,7 +1998,7 @@
       "center_runs": 0,
       "center_1st": 0,
       "center_rentai": 0,
-      "outer_runs": 7,
+      "outer_runs": 8,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -2029,7 +2035,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 5,
+          "runs": 6,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2038,25 +2044,25 @@
     },
     "蜂須瑞生": {
       "toban": "4819",
-      "runs": 6,
-      "1st": 1,
+      "runs": 8,
+      "1st": 2,
       "2nd": 2,
       "3rd": 0,
-      "in_runs": 2,
-      "in_1st": 0,
+      "in_runs": 3,
+      "in_1st": 1,
       "in_survive": 2,
       "center_runs": 2,
       "center_1st": 1,
       "center_rentai": 1,
-      "outer_runs": 1,
+      "outer_runs": 2,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 2,
-          "1st": 0,
+          "runs": 3,
+          "1st": 1,
           "2nd": 2,
           "3rd": 0
         },
@@ -2085,7 +2091,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2094,7 +2100,7 @@
     },
     "植竹玲奈": {
       "toban": "5361",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 1,
@@ -2117,7 +2123,7 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 1
@@ -2150,13 +2156,13 @@
     },
     "米丸乃絵": {
       "toban": "5193",
-      "runs": 7,
+      "runs": 8,
       "1st": 5,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 1,
-      "in_runs": 2,
+      "in_runs": 3,
       "in_1st": 2,
-      "in_survive": 0,
+      "in_survive": 1,
       "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 2,
@@ -2167,9 +2173,9 @@
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 2,
+          "runs": 3,
           "1st": 2,
-          "2nd": 0,
+          "2nd": 1,
           "3rd": 0
         },
         "2": {
@@ -2206,14 +2212,14 @@
     },
     "中村紋夕梨": {
       "toban": "5346",
-      "runs": 7,
+      "runs": 8,
       "1st": 2,
       "2nd": 0,
       "3rd": 0,
       "in_runs": 1,
       "in_1st": 1,
       "in_survive": 0,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 0,
       "outer_runs": 3,
@@ -2235,7 +2241,7 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2262,11 +2268,11 @@
     },
     "岩崎麗子": {
       "toban": "5320",
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 1,
-      "in_runs": 1,
+      "in_runs": 2,
       "in_1st": 0,
       "in_survive": 1,
       "center_runs": 2,
@@ -2279,7 +2285,7 @@
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 1
@@ -2318,21 +2324,21 @@
     },
     "今井美亜": {
       "toban": "4611",
-      "runs": 7,
-      "1st": 2,
-      "2nd": 1,
+      "runs": 9,
+      "1st": 3,
+      "2nd": 2,
       "3rd": 0,
       "in_runs": 2,
       "in_1st": 2,
       "in_survive": 0,
-      "center_runs": 3,
-      "center_1st": 0,
-      "center_rentai": 1,
+      "center_runs": 5,
+      "center_1st": 1,
+      "center_rentai": 3,
       "outer_runs": 1,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 0,
+      "upset_1st2nd": 1,
       "course_runs": {
         "1": {
           "runs": 2,
@@ -2347,15 +2353,15 @@
           "3rd": 0
         },
         "3": {
-          "runs": 1,
-          "1st": 0,
+          "runs": 2,
+          "1st": 1,
           "2nd": 0,
           "3rd": 0
         },
         "4": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
-          "2nd": 1,
+          "2nd": 2,
           "3rd": 0
         },
         "5": {
@@ -2374,7 +2380,7 @@
     },
     "深見亜由美": {
       "toban": "4897",
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 2,
       "3rd": 0,
@@ -2384,7 +2390,7 @@
       "center_runs": 2,
       "center_1st": 1,
       "center_rentai": 2,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
@@ -2397,7 +2403,7 @@
           "3rd": 0
         },
         "2": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2415,7 +2421,7 @@
           "3rd": 0
         },
         "5": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2430,14 +2436,14 @@
     },
     "櫻本あゆみ": {
       "toban": "4478",
-      "runs": 8,
+      "runs": 9,
       "1st": 1,
       "2nd": 5,
       "3rd": 2,
       "in_runs": 2,
       "in_1st": 1,
       "in_survive": 1,
-      "center_runs": 2,
+      "center_runs": 3,
       "center_1st": 0,
       "center_rentai": 2,
       "outer_runs": 2,
@@ -2459,7 +2465,7 @@
           "3rd": 1
         },
         "3": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 1,
           "3rd": 0
@@ -2486,25 +2492,25 @@
     },
     "松田真実": {
       "toban": "5272",
-      "runs": 8,
-      "1st": 3,
+      "runs": 10,
+      "1st": 4,
       "2nd": 0,
       "3rd": 0,
-      "in_runs": 1,
-      "in_1st": 1,
+      "in_runs": 2,
+      "in_1st": 2,
       "in_survive": 0,
       "center_runs": 3,
       "center_1st": 1,
       "center_rentai": 1,
-      "outer_runs": 2,
+      "outer_runs": 3,
       "outer_rentai3": 0,
       "ex_outperform": 0,
       "ex_betrayal": 0,
       "upset_1st2nd": 0,
       "course_runs": {
         "1": {
-          "runs": 1,
-          "1st": 1,
+          "runs": 2,
+          "1st": 2,
           "2nd": 0,
           "3rd": 0
         },
@@ -2533,7 +2539,7 @@
           "3rd": 0
         },
         "6": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 0,
           "3rd": 0
@@ -2598,8 +2604,8 @@
     },
     "魚谷香織": {
       "toban": "4347",
-      "runs": 9,
-      "1st": 1,
+      "runs": 10,
+      "1st": 2,
       "2nd": 5,
       "3rd": 2,
       "in_runs": 1,
@@ -2608,11 +2614,11 @@
       "center_runs": 5,
       "center_1st": 0,
       "center_rentai": 4,
-      "outer_runs": 2,
-      "outer_rentai3": 2,
+      "outer_runs": 3,
+      "outer_rentai3": 3,
       "ex_outperform": 0,
       "ex_betrayal": 0,
-      "upset_1st2nd": 2,
+      "upset_1st2nd": 3,
       "course_runs": {
         "1": {
           "runs": 1,
@@ -2639,8 +2645,8 @@
           "3rd": 1
         },
         "5": {
-          "runs": 1,
-          "1st": 1,
+          "runs": 2,
+          "1st": 2,
           "2nd": 0,
           "3rd": 0
         },
@@ -2654,14 +2660,14 @@
     },
     "後藤美翼": {
       "toban": "4680",
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 3,
-      "3rd": 1,
-      "in_runs": 1,
+      "3rd": 3,
+      "in_runs": 2,
       "in_1st": 0,
-      "in_survive": 1,
-      "center_runs": 4,
+      "in_survive": 2,
+      "center_runs": 5,
       "center_1st": 1,
       "center_rentai": 3,
       "outer_runs": 2,
@@ -2671,10 +2677,10 @@
       "upset_1st2nd": 1,
       "course_runs": {
         "1": {
-          "runs": 1,
+          "runs": 2,
           "1st": 0,
           "2nd": 1,
-          "3rd": 0
+          "3rd": 1
         },
         "2": {
           "runs": 0,
@@ -2689,10 +2695,10 @@
           "3rd": 0
         },
         "4": {
-          "runs": 2,
+          "runs": 3,
           "1st": 0,
           "2nd": 1,
-          "3rd": 0
+          "3rd": 1
         },
         "5": {
           "runs": 1,
@@ -2711,9 +2717,9 @@
   },
   "motor_stats": {
     "桐生_26": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 0
     },
     "桐生_65": {
@@ -2723,254 +2729,254 @@
       "3rd": 2
     },
     "桐生_11": {
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 1,
       "3rd": 1
     },
     "桐生_40": {
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
       "3rd": 2
     },
     "桐生_14": {
-      "runs": 9,
+      "runs": 10,
       "1st": 2,
       "2nd": 2,
       "3rd": 0
     },
     "桐生_20": {
-      "runs": 8,
+      "runs": 10,
       "1st": 0,
       "2nd": 4,
       "3rd": 2
     },
     "桐生_59": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 1
     },
     "桐生_41": {
-      "runs": 7,
+      "runs": 8,
       "1st": 2,
       "2nd": 3,
       "3rd": 1
     },
     "桐生_45": {
-      "runs": 7,
+      "runs": 9,
       "1st": 4,
-      "2nd": 1,
-      "3rd": 2
+      "2nd": 2,
+      "3rd": 3
     },
     "桐生_60": {
-      "runs": 7,
-      "1st": 0,
+      "runs": 9,
+      "1st": 2,
       "2nd": 2,
       "3rd": 1
     },
     "桐生_33": {
-      "runs": 7,
+      "runs": 9,
       "1st": 2,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 1
     },
     "桐生_52": {
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
-      "3rd": 1
+      "3rd": 2
     },
     "桐生_30": {
-      "runs": 7,
+      "runs": 9,
       "1st": 0,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 2
     },
     "桐生_53": {
-      "runs": 7,
-      "1st": 2,
+      "runs": 9,
+      "1st": 3,
       "2nd": 2,
       "3rd": 0
     },
     "桐生_17": {
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 1,
       "3rd": 0
     },
     "桐生_51": {
-      "runs": 8,
+      "runs": 10,
       "1st": 2,
-      "2nd": 3,
+      "2nd": 4,
       "3rd": 2
     },
     "桐生_37": {
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 2,
       "3rd": 0
     },
     "桐生_13": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 0
     },
     "桐生_73": {
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 2,
-      "3rd": 2
+      "3rd": 3
     },
     "桐生_29": {
-      "runs": 8,
-      "1st": 0,
+      "runs": 10,
+      "1st": 1,
       "2nd": 3,
       "3rd": 1
     },
     "桐生_56": {
-      "runs": 7,
-      "1st": 1,
-      "2nd": 1,
-      "3rd": 1
-    },
-    "桐生_35": {
-      "runs": 7,
-      "1st": 4,
+      "runs": 9,
+      "1st": 2,
       "2nd": 1,
       "3rd": 2
     },
-    "桐生_47": {
+    "桐生_35": {
       "runs": 8,
+      "1st": 4,
+      "2nd": 1,
+      "3rd": 3
+    },
+    "桐生_47": {
+      "runs": 9,
       "1st": 2,
       "2nd": 0,
-      "3rd": 1
+      "3rd": 2
     },
     "桐生_57": {
-      "runs": 7,
+      "runs": 8,
       "1st": 1,
       "2nd": 0,
       "3rd": 3
     },
     "桐生_50": {
-      "runs": 6,
+      "runs": 7,
       "1st": 0,
       "2nd": 1,
       "3rd": 2
     },
     "桐生_43": {
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 1
     },
     "桐生_32": {
-      "runs": 7,
-      "1st": 2,
+      "runs": 9,
+      "1st": 3,
       "2nd": 0,
-      "3rd": 2
+      "3rd": 3
     },
     "桐生_38": {
-      "runs": 6,
-      "1st": 0,
-      "2nd": 0,
-      "3rd": 2
-    },
-    "桐生_74": {
       "runs": 7,
       "1st": 0,
+      "2nd": 0,
+      "3rd": 3
+    },
+    "桐生_74": {
+      "runs": 9,
+      "1st": 1,
       "2nd": 1,
       "3rd": 4
     },
     "桐生_49": {
-      "runs": 7,
-      "1st": 3,
-      "2nd": 1,
+      "runs": 9,
+      "1st": 4,
+      "2nd": 2,
       "3rd": 2
     },
     "桐生_70": {
-      "runs": 7,
+      "runs": 9,
       "1st": 2,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 0
     },
     "桐生_46": {
-      "runs": 6,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 3
     },
     "桐生_21": {
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 0,
-      "3rd": 1
+      "3rd": 3
     },
     "桐生_48": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
-      "2nd": 0,
+      "2nd": 1,
       "3rd": 0
     },
     "桐生_36": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 0
     },
     "桐生_62": {
-      "runs": 6,
-      "1st": 1,
+      "runs": 8,
+      "1st": 2,
       "2nd": 2,
       "3rd": 0
     },
     "桐生_24": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 1
     },
     "桐生_69": {
-      "runs": 7,
+      "runs": 8,
       "1st": 5,
-      "2nd": 1,
+      "2nd": 2,
       "3rd": 1
     },
     "桐生_12": {
-      "runs": 7,
+      "runs": 8,
       "1st": 2,
       "2nd": 0,
       "3rd": 0
     },
     "桐生_34": {
-      "runs": 7,
+      "runs": 8,
       "1st": 0,
       "2nd": 0,
       "3rd": 1
     },
     "桐生_15": {
-      "runs": 7,
-      "1st": 2,
-      "2nd": 1,
+      "runs": 9,
+      "1st": 3,
+      "2nd": 2,
       "3rd": 0
     },
     "桐生_31": {
-      "runs": 6,
+      "runs": 8,
       "1st": 1,
       "2nd": 2,
       "3rd": 0
     },
     "桐生_64": {
-      "runs": 8,
+      "runs": 9,
       "1st": 1,
       "2nd": 5,
       "3rd": 2
     },
     "桐生_67": {
-      "runs": 8,
-      "1st": 3,
+      "runs": 10,
+      "1st": 4,
       "2nd": 0,
       "3rd": 0
     },
@@ -2981,16 +2987,16 @@
       "3rd": 2
     },
     "桐生_28": {
-      "runs": 9,
-      "1st": 1,
+      "runs": 10,
+      "1st": 2,
       "2nd": 5,
       "3rd": 2
     },
     "桐生_27": {
-      "runs": 7,
+      "runs": 9,
       "1st": 1,
       "2nd": 3,
-      "3rd": 1
+      "3rd": 3
     }
   }
 }
