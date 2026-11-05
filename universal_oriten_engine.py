@@ -113,7 +113,7 @@ def fetch_transcosmos_oriten(jcd: str, target_date: str, rno: int, timeout: int 
         return None
 
 # ==============================================================================
-# 3. 桐生（01）オリ展・直前情報統合取得
+# 3. 桐生（01）および津（09）オリ展・直前情報統合取得
 # ==============================================================================
 def fetch_kiryu_oriten(target_date: str, rno: int) -> dict:
     """桐生(01) 公式beforeinfoとtimedataを統合して全艇の完全オリ展を生成"""
@@ -121,6 +121,10 @@ def fetch_kiryu_oriten(target_date: str, rno: int) -> dict:
     if not base:
         return None
     return base
+
+def fetch_tsu_oriten(target_date: str, rno: int) -> dict:
+    """津(09) 公式beforeinfoから展示タイム・チルト・STを取得"""
+    return fetch_official_beforeinfo("09", target_date, rno)
 
 # ==============================================================================
 # 4. マスター関数: fetch_universal_oriten
