@@ -50,7 +50,7 @@ def build_day_summary(races: Dict[str, Any], vcfg: Dict[str, Any], dt_str: str) 
         if rk not in races:
             continue
         race = races[rk]
-        res = race.get("official_result")
+        res = race.get("result") or race.get("official_result")
         m_bets = race.get("main_bets", [])
         a_bets = race.get("ana_bets", [])
         
@@ -58,11 +58,24 @@ def build_day_summary(races: Dict[str, Any], vcfg: Dict[str, Any], dt_str: str) 
         n_bets = len(m_bets) + len(a_bets)
         cost = n_bets * 100
 
-        if res and res.get("comb"):
+        comb = None
+        payout = 0
+        if isinstance(res, dict):
+            comb = res.get("comb") or res.get("trifecta")
+            try:
+                payout = int(res.get("payout") or 0)
+            except Exception:
+                payout = 0
+        elif isinstance(res, str) and res != "不成立":
+            comb = res
+            try:
+                payout = int(race.get("official_payout") or 0)
+            except Exception:
+                payout = 0
+
+        if comb:
             finished_count += 1
             total_bet += cost
-            comb = res["comb"]
-            payout = int(res.get("payout") or 0)
             all_combs = [b["comb"] for b in m_bets] + [b["comb"] for b in a_bets]
             if comb in all_combs:
                 hit_count += 1
