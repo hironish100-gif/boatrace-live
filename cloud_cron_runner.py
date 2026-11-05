@@ -93,14 +93,15 @@ def generate_racelist_if_missing(jcd: str, target_date: str, stadium: str, data_
                         if nxt:
                             m_dl = re.search(r'(\d{1,2}:\d{2})', nxt.text)
                             if m_dl: deadline = m_dl.group(1)
-                title_el = soup.select_one('h3.title16_titleDetail__add2020')
-                if title_el:
-                    race_name = f"{r}R " + title_el.get_text(strip=True).split()[0]
-                tbodies = soup.select('div.table1 table tbody')
-                for idx, tb in enumerate(tbodies[:6]):
-                    num = idx + 1
-                    r_div = tb.select_one('div.is-fs18')
-                    name = r_div.get_text(strip=True).replace(' ', '').replace('　', '') if r_div else f"{num}号艇"
+            title_el = soup.select_one('h3.title16_titleDetail__add2020')
+            if title_el:
+                race_name = f"{r}R " + title_el.get_text(strip=True).split()[0]
+            # 選手名クラス div.is-fs18 を持つ tbody のみを厳密抽出 (ヘッダーtbodyを完全排除)
+            racer_tbodies = [tb for tb in soup.select('div.table1 table tbody') if tb.select_one('div.is-fs18')]
+            for idx, tb in enumerate(racer_tbodies[:6]):
+                num = idx + 1
+                r_div = tb.select_one('div.is-fs18')
+                name = r_div.get_text(strip=True).replace(' ', '').replace('　', '') if r_div else f"{num}号艇"
                     toban_div = tb.select_one('div.is-fs11')
                     toban, rank = 0, "B1"
                     if toban_div:
