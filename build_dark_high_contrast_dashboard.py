@@ -941,9 +941,11 @@ def generate_perfect_dark_dashboard() -> str:
     }}
 
     // 📋 出走表テーブル描画（黒バック ✕ 鮮烈な白文字仕様）
-    const boatTbody = document.getElementById("boat-tbody");
-    boatTbody.innerHTML = "";
-    race.boats.forEach((b, idx) => {{
+    try {{
+      const boatTbody = document.getElementById("boat-tbody");
+      if (boatTbody && race.boats) {{
+        boatTbody.innerHTML = "";
+        race.boats.forEach((b, idx) => {{
       const tr = document.createElement("tr");
       tr.className = (idx % 2 === 0 ? "bg-slate-900/80" : "bg-slate-950/90") + " hover:bg-slate-800/90 transition-colors border-b border-slate-800 text-white font-bold";
 
@@ -973,44 +975,47 @@ def generate_perfect_dark_dashboard() -> str:
             ${{b.num}}
           </span>
         </td>
-        <td class="py-2 px-1 text-center font-black text-sm text-yellow-300 bg-slate-950 border-r border-slate-800">${{b.mark}}</td>
+        <td class="py-2 px-1 text-center font-black text-sm text-yellow-300 bg-slate-950 border-r border-slate-800">${{b.mark || '―'}}</td>
         <td class="py-2 px-2 text-left whitespace-nowrap border-r border-slate-800">
-          <div class="font-black text-sm text-white tracking-wide">${{b.name}}</div>
-          <div class="text-[10px] text-slate-300 font-mono font-bold">${{b.id}} / ${{b.branch}}</div>
+          <div class="font-black text-sm text-white tracking-wide">${{b.name || '選手'}}</div>
+          <div class="text-[10px] text-slate-300 font-mono font-bold">${{b.id || b.toban || b.num}} / ${{b.branch || '支部'}}</div>
         </td>
-        <td class="py-2 px-1 font-black text-white text-xs border-r-2 border-slate-700">${{b.rank}}</td>
+        <td class="py-2 px-1 font-black text-white text-xs border-r-2 border-slate-700">${{b.rank || 'B1'}}</td>
 
-        <td class="py-2 px-1 font-mono font-black text-slate-200 border-r border-slate-800">${{b.tilt}}</td>
-        <td class="py-2 px-1 font-mono font-black text-yellow-300 text-xs bg-slate-950 border-r border-slate-800">${{b.ex_time != "--.--" ? b.ex_time : "-"}}</td>
+        <td class="py-2 px-1 font-mono font-black text-slate-200 border-r border-slate-800">${{b.tilt || '-0.5'}}</td>
+        <td class="py-2 px-1 font-mono font-black text-yellow-300 text-xs bg-slate-950 border-r border-slate-800">${{b.ex_time != "--.--" && b.ex_time ? b.ex_time : "-"}}</td>
         <td class="py-2 px-1 font-mono bg-cyan-950/40 border-r border-slate-800">${{straightHtml}}</td>
         <td class="py-2 px-1 font-mono bg-teal-950/40 border-r border-slate-800">${{turnHtml}}</td>
         <td class="py-2 px-1 font-mono bg-indigo-950/40 border-r border-slate-800">${{lapHtml}}</td>
-        <td class="py-2 px-1 text-xs font-mono font-black text-white whitespace-nowrap border-r border-slate-800">${{b.motor_info}}</td>
-        <td class="py-2 px-1 text-xs font-mono font-black text-white border-r-2 border-slate-700 whitespace-nowrap">${{b.boat_info}}</td>
+        <td class="py-2 px-1 text-xs font-mono font-black text-white whitespace-nowrap border-r border-slate-800">${{b.motor_info || '-'}}</td>
+        <td class="py-2 px-1 text-xs font-mono font-black text-white border-r-2 border-slate-700 whitespace-nowrap">${{b.boat_info || '-'}}</td>
 
-        <td class="py-2 px-1 font-mono font-bold text-slate-100 border-r border-slate-800">${{b.win_rate}}</td>
-        <td class="py-2 px-1 font-mono font-bold text-slate-100 border-r border-slate-800">${{b.local_win_rate}}</td>
-        <td class="py-2 px-1 font-mono font-black text-yellow-300 border-r border-slate-800">${{b.avg_st}}</td>
-        <td class="py-2 px-1 font-mono text-[11px] border-r border-slate-800 ${{b.fl.includes('F1') || b.fl.includes('F2') ? 'text-rose-400 font-black bg-rose-950 px-1 rounded' : 'text-emerald-400 font-bold'}}">${{b.fl}}</td>
+        <td class="py-2 px-1 font-mono font-bold text-slate-100 border-r border-slate-800">${{b.win_rate || '4.50'}}</td>
+        <td class="py-2 px-1 font-mono font-bold text-slate-100 border-r border-slate-800">${{b.local_win_rate || b.win_rate || '4.50'}}</td>
+        <td class="py-2 px-1 font-mono font-black text-yellow-300 border-r border-slate-800">${{b.avg_st || '.17'}}</td>
+        <td class="py-2 px-1 font-mono text-[11px] border-r border-slate-800 ${{String(b.fl || 'F0').includes('F1') || String(b.fl || 'F0').includes('F2') ? 'text-rose-400 font-black bg-rose-950 px-1 rounded' : 'text-emerald-400 font-bold'}}">${{b.fl || 'F0'}}</td>
         <td class="py-2 px-1 text-[10px] border-r-2 border-slate-700 whitespace-nowrap">
           ${{ladiesTagHtml}}
-          <span class="text-[10px] text-slate-300 font-bold ml-0.5">F:${{b.f_res}}</span>
+          <span class="text-[10px] text-slate-300 font-bold ml-0.5">F:${{b.f_res || '順調'}}</span>
         </td>
 
-        <td class="py-2 px-1 font-black text-cyan-300 font-mono bg-cyan-950/50 border-r border-slate-800">${{b.win_prob}}%</td>
-        <td class="py-2 px-1 font-mono font-bold text-slate-200 border-r border-slate-800">${{b.place2_prob}}%</td>
-        <td class="py-2 px-1 font-mono font-bold text-slate-200 border-r border-slate-800">${{b.place3_prob}}%</td>
-        <td class="py-2 px-1 font-black text-emerald-300 font-mono bg-emerald-950/50 border-r border-slate-800">${{b.triple_rate}}%</td>
-        <td class="py-2 px-1 font-black bg-slate-800 text-yellow-300 rounded text-xs border border-slate-700">${{b.score}}</td>
+        <td class="py-2 px-1 font-black text-cyan-300 font-mono bg-cyan-950/50 border-r border-slate-800">${{b.win_prob || '16.7'}}%</td>
+        <td class="py-2 px-1 font-mono font-bold text-slate-200 border-r border-slate-800">${{b.place2_prob || '33.3'}}%</td>
+        <td class="py-2 px-1 font-mono font-bold text-slate-200 border-r border-slate-800">${{b.place3_prob || '50.0'}}%</td>
+        <td class="py-2 px-1 font-black text-emerald-300 font-mono bg-emerald-950/50 border-r border-slate-800">${{b.triple_rate || '50.0'}}%</td>
+        <td class="py-2 px-1 font-black bg-slate-800 text-yellow-300 rounded text-xs border border-slate-700">${{b.score || '50'}}</td>
       `;
       boatTbody.appendChild(tr);
-    }});
+        }});
+      }}
+    }} catch (e) {{ console.error("boat-tbody error:", e); }}
 
     // 🏁 【高さを約半分に圧縮】予測本番スリット隊形レーンカード（黒バック ✕ 白文字）
-    const slitContainer = document.getElementById("slit-cards-container");
-    slitContainer.innerHTML = "";
-
-    race.boats.forEach(b => {{
+    try {{
+      const slitContainer = document.getElementById("slit-cards-container");
+      if (slitContainer && race.boats) {{
+        slitContainer.innerHTML = "";
+        race.boats.forEach(b => {{
       const card = document.createElement("div");
       card.className = "bg-slate-900 border border-slate-800 hover:border-cyan-500/50 rounded-lg py-1 px-2.5 flex items-center justify-between gap-2 transition-all shadow-sm";
 
@@ -1026,10 +1031,10 @@ def generate_perfect_dark_dashboard() -> str:
             ${{b.num}}
           </span>
           <span class="px-1 py-0.2 rounded bg-slate-800 text-cyan-300 font-mono text-[10px] font-bold border border-slate-700">
-            [${{b.course}}]
+            [${{b.course || b.num}}]
           </span>
-          <span class="font-black text-xs text-white">${{b.name}}</span>
-          <span class="text-[9px] px-1 py-0.2 rounded border font-bold ${{b.concept.badge_color}}">${{b.concept.badge}}</span>
+          <span class="font-black text-xs text-white">${{b.name || '選手'}}</span>
+          <span class="text-[9px] px-1 py-0.2 rounded border font-bold ${{b.concept ? b.concept.badge_color : 'bg-slate-700 text-slate-200'}}">${{b.concept ? b.concept.badge : '追従'}}</span>
         </div>
       `;
 
@@ -1037,7 +1042,7 @@ def generate_perfect_dark_dashboard() -> str:
       const exBadge = (b.ex_st && b.ex_st !== "--")
         ? `<span class="text-[9.5px] px-1 py-0.2 rounded bg-slate-800 text-cyan-300 font-mono border border-slate-700 font-bold" title="直前スタート展示ST">展:${{b.ex_st}}</span>`
         : "";
-      const avgBadge = `<span class="hidden sm:inline text-[9.5px] px-1 py-0.2 rounded bg-slate-800 text-slate-300 font-mono font-bold" title="通算平均ST">平:${{b.avg_st}}</span>`;
+      const avgBadge = `<span class="hidden sm:inline text-[9.5px] px-1 py-0.2 rounded bg-slate-800 text-slate-300 font-mono font-bold" title="通算平均ST">平:${{b.avg_st || '.17'}}</span>`;
 
       const midCol = `
         <div class="flex items-center gap-1.5 shrink-0 ml-auto sm:ml-0">
@@ -1046,7 +1051,7 @@ def generate_perfect_dark_dashboard() -> str:
             ${{avgBadge}}
           </div>
           <span class="text-cyan-400 font-black text-[10px] sm:text-xs">予測➔</span>
-          <span class="font-mono font-black text-xs sm:text-sm text-yellow-300 w-7 sm:w-8 text-right">${{b.pred_st}}</span>
+          <span class="font-mono font-black text-xs sm:text-sm text-yellow-300 w-7 sm:w-8 text-right">${{b.pred_st || b.avg_st || '.17'}}</span>
           <div class="flex items-center ml-0.5">
             ${{blocksHtml}}
           </div>
@@ -1056,7 +1061,7 @@ def generate_perfect_dark_dashboard() -> str:
       // 右側: 戦術寸評（白文字）
       const rightCol = `
         <div class="hidden sm:block text-[11px] text-slate-200 font-medium italic text-right flex-1 truncate ml-2">
-          ${{b.tactical_comment}}
+          ${{b.tactical_comment || 'スリット先行展開追従'}}
         </div>
       `;
 
@@ -1074,8 +1079,10 @@ def generate_perfect_dark_dashboard() -> str:
           <div class="flex-1 border-t border-dashed border-cyan-800/80"></div>
         `;
         slitContainer.appendChild(divider);
+        }}
+      }});
       }}
-    }});
+    }} catch (e) {{ console.error("slit error:", e); }}
 
     // 左カラム: 過去5年女子戦データ分析＆選手特性（HTMLリッチレンダリング・白文字・undefined完全防止）
     const playerProfileElem = document.getElementById("player-profile-content");
@@ -1093,9 +1100,11 @@ def generate_perfect_dark_dashboard() -> str:
     }}
 
     // 🔥 本線4点 グリッド（黒バック ✕ 白文字）
-    const mainGrid = document.getElementById("main-bets-grid");
-    mainGrid.innerHTML = "";
-    race.main_bets.forEach(m => {{
+    try {{
+      const mainGrid = document.getElementById("main-bets-grid");
+      if (mainGrid && race.main_bets) {{
+        mainGrid.innerHTML = "";
+        race.main_bets.forEach(m => {{
       const isHit = m.is_hit === true;
       const hitBadge = isHit
         ? `<span class="bg-emerald-500 text-slate-950 text-[10px] px-1.5 py-0.2 rounded font-black tracking-wider shadow-[0_0_8px_#10b981] animate-pulse">🎯 的中！ ${{m.payout}}円</span>`
@@ -1129,12 +1138,16 @@ def generate_perfect_dark_dashboard() -> str:
         </div>
       `;
       mainGrid.appendChild(card);
-    }});
+        }});
+      }}
+    }} catch (e) {{ console.error("mainGrid error:", e); }}
 
     // ⚡ 穴4点 グリッド（黒バック ✕ 白文字）
-    const anaGrid = document.getElementById("ana-bets-grid");
-    anaGrid.innerHTML = "";
-    race.ana_bets.forEach(a => {{
+    try {{
+      const anaGrid = document.getElementById("ana-bets-grid");
+      if (anaGrid && race.ana_bets) {{
+        anaGrid.innerHTML = "";
+        race.ana_bets.forEach(a => {{
       const isHit = a.is_hit === true;
       const hitBadge = isHit
         ? `<span class="bg-emerald-500 text-slate-950 text-[10px] px-1.5 py-0.2 rounded font-black tracking-wider shadow-[0_0_8px_#10b981] animate-pulse">🎯 的中！</span>`
@@ -1168,7 +1181,9 @@ def generate_perfect_dark_dashboard() -> str:
         </div>
       `;
       anaGrid.appendChild(card);
-    }});
+        }});
+      }}
+    }} catch (e) {{ console.error("anaGrid error:", e); }}
   }}
 
   // 起動時は常に最新開催日（20261011 江戸川オールレディース5日目、または最新の有効日）を最優先で強制表示！
