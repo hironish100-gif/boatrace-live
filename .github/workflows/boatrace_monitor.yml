@@ -1,17 +1,19 @@
-name: Boatrace AI Cloud Autonomous 24/7 Monitor
+name: Boatrace AI 24/7 Cloud Autonomous Monitor
 
 on:
   schedule:
-    # 毎日 日本時間 21:00 (UTC 12:00) : 翌日出走表・AI予想の自動生成
+    # 毎日 日本時間 08:30 (UTC 23:30) : 朝の出走表・事前予想確認
+    - cron: '30 23 * * *'
+    # 毎日 日本時間 09:30〜17:00 (UTC 00:30〜08:00) : デイレース10分おき常駐監視（展示・オッズ・確定結果）
+    - cron: '*/10 0-8 * * *'
+    # 毎日 日本時間 15:00〜21:30 (UTC 06:00〜12:30) : ナイターレース15分おき常駐監視
+    - cron: '*/15 6-12 * * *'
+    # 毎日 日本時間 21:00 (UTC 12:00) : 翌日出走表・事前予想生成
     - cron: '0 12 * * *'
-    # 毎日 日本時間 08:00 (UTC 23:00) : 朝の事前確認・更新
-    - cron: '0 23 * * *'
-    # 毎日 日本時間 15:00〜21:30 (UTC 06:00〜12:30) : 30分ごとのレースリアルタイム同期
-    - cron: '*/30 6-12 * * *'
   workflow_dispatch:
 
 jobs:
-  cloud-sync:
+  cloud-live-monitor:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -22,24 +24,24 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 1
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lightgbm numpy pandas
 
-      - name: Run Cloud Monitor Script
+      - name: Run Autonomous Cloud Monitor
         env:
           TZ: 'Asia/Tokyo'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python cloud_cron_runner.py
 
-      - name: Git Commit and Push
+      - name: Git Commit and Push to Main Repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
