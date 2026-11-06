@@ -102,33 +102,33 @@ def generate_racelist_if_missing(jcd: str, target_date: str, stadium: str, data_
                 num = idx + 1
                 r_div = tb.select_one('div.is-fs18')
                 name = r_div.get_text(strip=True).replace(' ', '').replace('　', '') if r_div else f"{num}号艇"
-                    toban_div = tb.select_one('div.is-fs11')
-                    toban, rank = 0, "B1"
-                    if toban_div:
-                        m_tb = re.search(r'(\d{4})', toban_div.text)
-                        if m_tb: toban = int(m_tb.group(1))
-                        m_rk = re.search(r'(A1|A2|B1|B2)', toban_div.text)
-                        if m_rk: rank = m_rk.group(1)
-                    tds = tb.select('td')
-                    win_rate, avg_st, motor_rate, boat_rate = 4.5, 0.17, 30.0, 30.0
-                    if len(tds) >= 5:
-                        m_w = re.findall(r'(\d+\.\d{2})', tds[4].text)
-                        if m_w: win_rate = float(m_w[0])
-                    if len(tds) >= 4:
-                        m_st = re.search(r'(0\.\d{2})', tds[3].text)
-                        if m_st: avg_st = float(m_st.group(1))
-                    if len(tds) >= 7:
-                        m_m = re.findall(r'(\d+\.\d{2})', tds[6].text)
-                        if m_m: motor_rate = float(m_m[0])
-                    if len(tds) >= 8:
-                        m_b = re.findall(r'(\d+\.\d{2})', tds[7].text)
-                        if m_b: boat_rate = float(m_b[0])
-                    boats.append({
-                        "num": num, "name": name, "toban": toban, "rank": rank,
-                        "win_rate": str(win_rate), "avg_st": str(avg_st),
-                        "motor_rate": str(motor_rate), "boat_rate": str(boat_rate),
-                        "ex_time": "--.--", "tilt": "-0.5", "ex_st": "--"
-                    })
+                toban_div = tb.select_one('div.is-fs11')
+                toban, rank = 0, "B1"
+                if toban_div:
+                    m_tb = re.search(r'(\d{4})', toban_div.text)
+                    if m_tb: toban = int(m_tb.group(1))
+                    m_rk = re.search(r'(A1|A2|B1|B2)', toban_div.text)
+                    if m_rk: rank = m_rk.group(1)
+                tds = tb.select('td')
+                win_rate, avg_st, motor_rate, boat_rate = 4.5, 0.17, 30.0, 30.0
+                if len(tds) >= 5:
+                    m_w = re.findall(r'(\d+\.\d{2})', tds[4].text)
+                    if m_w: win_rate = float(m_w[0])
+                if len(tds) >= 4:
+                    m_st = re.search(r'(0\.\d{2})', tds[3].text)
+                    if m_st: avg_st = float(m_st.group(1))
+                if len(tds) >= 7:
+                    m_m = re.findall(r'(\d+\.\d{2})', tds[6].text)
+                    if m_m: motor_rate = float(m_m[0])
+                if len(tds) >= 8:
+                    m_b = re.findall(r'(\d+\.\d{2})', tds[7].text)
+                    if m_b: boat_rate = float(m_b[0])
+                boats.append({
+                    "num": num, "name": name, "toban": toban, "rank": rank,
+                    "win_rate": str(win_rate), "avg_st": str(avg_st),
+                    "motor_rate": str(motor_rate), "boat_rate": str(boat_rate),
+                    "ex_time": "--.--", "tilt": "-0.5", "ex_st": "--"
+                })
         except Exception as e:
             log(f"R{r} racelist scrape error: {e}")
 
