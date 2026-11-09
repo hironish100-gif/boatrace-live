@@ -384,7 +384,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "3-2-1",
+      "payout": 2380,
+      "kimarite": "まくり",
+      "popularity": "8"
+    },
+    "official_payout": "2380",
+    "kimarite": "まくり"
   },
   "r_2": {
     "round": 2,
@@ -771,7 +779,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-3-2",
+      "payout": 610,
+      "kimarite": "逃げ",
+      "popularity": "2"
+    },
+    "official_payout": "610",
+    "kimarite": "逃げ"
   },
   "r_3": {
     "round": 3,
@@ -1158,7 +1174,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "2-1-3",
+      "payout": 750,
+      "kimarite": "まくり",
+      "popularity": "3"
+    },
+    "official_payout": "750",
+    "kimarite": "まくり"
   },
   "r_4": {
     "round": 4,
@@ -1545,7 +1569,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "4-1-3",
+      "payout": 2370,
+      "kimarite": "差し",
+      "popularity": "10"
+    },
+    "official_payout": "2370",
+    "kimarite": "差し"
   },
   "r_5": {
     "round": 5,
@@ -1932,7 +1964,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-5-3",
+      "payout": 10740,
+      "kimarite": "逃げ",
+      "popularity": "37"
+    },
+    "official_payout": "10740",
+    "kimarite": "逃げ"
   },
   "r_6": {
     "round": 6,
@@ -2319,7 +2359,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "2-5-6",
+      "payout": 1680,
+      "kimarite": "逃げ",
+      "popularity": "7"
+    },
+    "official_payout": "1680",
+    "kimarite": "逃げ"
   },
   "r_7": {
     "round": 7,
@@ -2706,7 +2754,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-4-2",
+      "payout": 3230,
+      "kimarite": "逃げ",
+      "popularity": "19"
+    },
+    "official_payout": "3230",
+    "kimarite": "逃げ"
   },
   "r_8": {
     "round": 8,
@@ -3093,7 +3149,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-2-3",
+      "payout": 210,
+      "kimarite": "逃げ",
+      "popularity": "1"
+    },
+    "official_payout": "210",
+    "kimarite": "逃げ"
   },
   "r_9": {
     "round": 9,
@@ -3480,7 +3544,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "2-5-3",
+      "payout": 2390,
+      "kimarite": "恵まれ",
+      "popularity": "8"
+    },
+    "official_payout": "2390",
+    "kimarite": "恵まれ"
   },
   "r_10": {
     "round": 10,
@@ -3867,7 +3939,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "2-3-1",
+      "payout": 7700,
+      "kimarite": "まくり",
+      "popularity": "24"
+    },
+    "official_payout": "7700",
+    "kimarite": "まくり"
   },
   "r_11": {
     "round": 11,
@@ -4254,7 +4334,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-3-5",
+      "payout": 1010,
+      "kimarite": "逃げ",
+      "popularity": "4"
+    },
+    "official_payout": "1010",
+    "kimarite": "逃げ"
   },
   "r_12": {
     "round": 12,
