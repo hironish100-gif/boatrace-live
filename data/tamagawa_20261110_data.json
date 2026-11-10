@@ -779,7 +779,15 @@
       "wave_height": "1cm",
       "tide": "中潮",
       "weather": "晴"
-    }
+    },
+    "official_result": {
+      "comb": "1-2-6",
+      "payout": 1180,
+      "kimarite": "",
+      "popularity": "2"
+    },
+    "official_payout": "1180",
+    "kimarite": ""
   },
   "r_3": {
     "round": 3,

@@ -32109,12 +32109,12 @@
     "stadium": "多摩川",
     "series_title": "ヴィーナスシリーズ第１７戦",
     "summary": {
-      "desc": "多摩川 ヴィーナスシリーズ第１７戦 (11/10) 【確定1R: 1的中 回収率347.5%】",
-      "total_bet": 800,
+      "desc": "多摩川 ヴィーナスシリーズ第１７戦 (11/10) 【確定2R: 1的中 回収率173.8%】",
+      "total_bet": 1600,
       "total_payout": 2780,
-      "recovery_rate": 347.5,
+      "recovery_rate": 173.8,
       "hit_count": 1,
-      "finished_count": 1,
+      "finished_count": 2,
       "total_races": 12
     },
     "races": {
@@ -32898,7 +32898,15 @@
           "wave_height": "1cm",
           "tide": "中潮",
           "weather": "晴"
-        }
+        },
+        "official_result": {
+          "comb": "1-2-6",
+          "payout": 1180,
+          "kimarite": "",
+          "popularity": "2"
+        },
+        "official_payout": "1180",
+        "kimarite": ""
       },
       "r_3": {
         "round": 3,
